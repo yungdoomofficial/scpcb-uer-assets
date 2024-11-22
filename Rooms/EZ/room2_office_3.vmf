@@ -37595,14 +37595,14 @@ entity
     "id" "1244"
     "classname" "mesh"
     "angles" "360 90 360"
-    "file" "bench"
-    "position" "183.67509 0 578"
+    "file" "bench2"
+    "position" "181.67509 0 578"
     "scale" "1 1 1"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "183.67509000 578.00000000 0.00000000"
+    "origin" "181.67509000 578.00000000 0.00000000"
     editor
     {
         "color" "255 0 255"
@@ -37798,7 +37798,6 @@ entity
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "-6"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -38019,8 +38018,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-199.22780000 86.18540000 158.07550000]"
-        "look" "[-226.91940000 178.10970000 158.20590000]"
+        "position" "[65.84976000 140.97030000 246.06670000]"
+        "look" "[106.10550000 216.31350000 202.25130000]"
     }
 }
 cordon

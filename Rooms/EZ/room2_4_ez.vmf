@@ -6039,14 +6039,14 @@ entity
     "id" "220"
     "classname" "mesh"
     "angles" "360 90 360"
-    "file" "bench"
-    "position" "183.67509 0 -440.85"
+    "file" "bench2"
+    "position" "182.67509 0 -440.85"
     "scale" "1 1 1"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "183.67509000 -440.85000000 0.00000000"
+    "origin" "182.67509000 -440.85000000 0.00000000"
     editor
     {
         "color" "255 0 255"
@@ -6061,14 +6061,14 @@ entity
     "id" "221"
     "classname" "mesh"
     "angles" "360 90 360"
-    "file" "bench"
-    "position" "183.67509 0 -858.85"
+    "file" "bench2"
+    "position" "182.67509 0 -858.85"
     "scale" "1 1 1"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "183.67509000 -858.85000000 0.00000000"
+    "origin" "182.67509000 -858.85000000 0.00000000"
     editor
     {
         "color" "255 0 255"
@@ -6305,8 +6305,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-136.01350000 191.58810000 291.85000000]"
-        "look" "[-49.47507000 213.88050000 326.92470000]"
+        "position" "[172.82730000 -279.07750000 144.25770000]"
+        "look" "[191.63590000 -369.83350000 119.24400000]"
     }
 }
 cordon

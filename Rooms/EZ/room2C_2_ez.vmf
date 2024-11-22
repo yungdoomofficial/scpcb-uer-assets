@@ -17516,50 +17516,6 @@ entity
 }
 entity
 {
-    "id" "184"
-    "classname" "mesh"
-    "angles" "360 -90 360"
-    "file" "bench"
-    "position" "-503 0 -110"
-    "scale" "1 1 1"
-    "hasCollision" "Yes"
-    "meshFX" "0"
-    "textureOverwrite" ""
-    "spawnflags" "0"
-    "origin" "-503.00000000 -110.00000000 0.00000000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "3"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
-    "id" "186"
-    "classname" "mesh"
-    "angles" "360 180 360"
-    "file" "bench"
-    "position" "98 0 505"
-    "scale" "1 1 1"
-    "hasCollision" "Yes"
-    "meshFX" "0"
-    "textureOverwrite" ""
-    "spawnflags" "0"
-    "origin" "98.00000000 505.00000000 0.00000000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "3"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
     "id" "200"
     "classname" "light_fix"
     "color" "200 200 255"
@@ -18612,13 +18568,57 @@ entity
         "parentid" "1"
     }
 }
+entity
+{
+    "id" "411"
+    "classname" "mesh"
+    "angles" "360 -180 360"
+    "file" "bench2"
+    "position" "98 0 502"
+    "scale" "1 1 1"
+    "hasCollision" "Yes"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "98.00000000 502.00000000 0.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "3"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "412"
+    "classname" "mesh"
+    "angles" "360 -90 360"
+    "file" "bench2"
+    "position" "-502 0 -110"
+    "scale" "1 1 1"
+    "hasCollision" "Yes"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "-502.00000000 -110.00000000 0.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "3"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
 cameras
 {
     "activecamera" "0"
     camera
     {
-        "position" "[-151.88270000 -104.21810000 269.86470000]"
-        "look" "[-240.61380000 -140.39310000 264.01410000]"
+        "position" "[-118.67270000 -26.41632000 284.15550000]"
+        "look" "[-197.28500000 2.47186300 237.23360000]"
     }
 }
 cordon

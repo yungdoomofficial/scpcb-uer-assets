@@ -37973,15 +37973,15 @@ entity
 {
     "id" "448"
     "classname" "mesh"
-    "position" "-1490.67509 -384 770.85"
-    "file" "bench.b3d"
+    "position" "-1490 -384 771"
+    "file" "bench2.b3d"
     "angles" "360 -90 360"
     "scale" "1 1 1"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-1490.67509000 770.85000000 -384.00000000"
+    "origin" "-1490.00000000 771.00000000 -384.00000000"
     editor
     {
         "color" "255 0 255"
@@ -40154,8 +40154,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[60.26902000 -393.65540000 275.41630000]"
-        "look" "[33.62811000 -306.95120000 306.89020000]"
+        "position" "[-1350.83200000 500.80020000 -157.72750000]"
+        "look" "[-1372.46800000 592.89340000 -174.12090000]"
     }
 }
 cordon
