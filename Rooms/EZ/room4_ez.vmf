@@ -23466,13 +23466,223 @@ entity
         "parentid" "1"
     }
 }
+entity
+{
+    "id" "702"
+    "classname" "mesh"
+    "position" "154 0 139"
+    "file" "rock"
+    "angles" "360 -49.41654 360"
+    "scale" "15 15 15"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "154.00000000 139.00000000 0.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "703"
+    "classname" "mesh"
+    "position" "-190 0 -82"
+    "file" "rock"
+    "angles" "360 0 360"
+    "scale" "10 10 10"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "-190.00000000 -82.00000000 0.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "704"
+    "classname" "mesh"
+    "position" "-150.3307 0 -128.4683"
+    "file" "096_tunnel_rocks"
+    "angles" "360 0 360"
+    "scale" "10 10 10"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "-150.33070000 -128.46830000 0.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "705"
+    "classname" "mesh"
+    "position" "101.66932 0 -137.4683"
+    "file" "rock"
+    "angles" "360 0 360"
+    "scale" "10 10 10"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "101.66932000 -137.46830000 0.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "706"
+    "classname" "mesh"
+    "position" "-111 0 110"
+    "file" "rock"
+    "angles" "360 -49.41654 360"
+    "scale" "15 15 15"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "-111.00000000 110.00000000 0.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "707"
+    "classname" "mesh"
+    "position" "106.00002 0 -14"
+    "file" "rock"
+    "angles" "360 0 360"
+    "scale" "10 10 10"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "106.00002000 -14.00000000 0.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "708"
+    "classname" "mesh"
+    "position" "-43 0 -178"
+    "file" "rock"
+    "angles" "360 -49.41654 360"
+    "scale" "15 15 15"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "-43.00000000 -178.00000000 0.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "709"
+    "classname" "mesh"
+    "position" "-198 0 -9"
+    "file" "rock"
+    "angles" "360 0 360"
+    "scale" "10 10 10"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "-198.00000000 -9.00000000 0.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "710"
+    "classname" "mesh"
+    "position" "42 0 83"
+    "file" "rock"
+    "angles" "360 -49.41654 360"
+    "scale" "15 15 15"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "42.00000000 83.00000000 0.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "711"
+    "classname" "mesh"
+    "position" "219 0 -19"
+    "file" "rock"
+    "angles" "360 0 360"
+    "scale" "10 10 10"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "219.00000000 -19.00000000 0.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
 cameras
 {
     "activecamera" "0"
     camera
     {
-        "position" "[-18.94457000 -759.59470000 253.56450000]"
-        "look" "[-10.91582000 -664.57170000 242.50040000]"
+        "position" "[511.56480000 -55.79896000 319.44690000]"
+        "look" "[423.40600000 -42.23763000 283.94540000]"
     }
 }
 cordon
