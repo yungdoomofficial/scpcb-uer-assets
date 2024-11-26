@@ -6302,7 +6302,7 @@ entity
     "angles" "360 -180 360"
     "file" "table_e.b3d"
     "position" "-661 0 -224"
-    "scale" "3.5 3.5 3.5"
+    "scale" "1 1 1"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -6324,7 +6324,7 @@ entity
     "angles" "360 -180 360"
     "file" "table_e.b3d"
     "position" "-661 0 128"
-    "scale" "3.5 3.5 3.5"
+    "scale" "1 1 1"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -6346,7 +6346,7 @@ entity
     "angles" "360 180 360"
     "file" "table_e"
     "position" "-661 0 480"
-    "scale" "3.5 3.5 3.5"
+    "scale" "1 1 1"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -6388,8 +6388,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-172.72600000 119.19080000 276.06030000]"
-        "look" "[-267.20150000 127.03500000 260.93450000]"
+        "position" "[-210.16090000 191.89220000 242.73530000]"
+        "look" "[-305.36090000 180.30260000 238.42430000]"
     }
 }
 cordon
