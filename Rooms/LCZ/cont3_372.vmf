@@ -48136,9 +48136,9 @@ entity
 {
     "id" "932"
     "classname" "waypoint"
-    "position" "768 32 -608"
+    "position" "813 32 -504"
     "spawnflags" "0"
-    "origin" "768.00000000 -608.00000000 32.00000000"
+    "origin" "813.00000000 -504.00000000 32.00000000"
     editor
     {
         "color" "255 0 255"
@@ -48343,13 +48343,29 @@ entity
         "parentid" "1"
     }
 }
+entity
+{
+    "id" "1067"
+    "classname" "waypoint"
+    "position" "752 32 -800"
+    "spawnflags" "0"
+    "origin" "752.00000000 -800.00000000 32.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "3"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
 cameras
 {
     "activecamera" "0"
     camera
     {
-        "position" "[-12.77377000 444.81880000 207.54740000]"
-        "look" "[-45.14590000 354.64060000 201.55620000]"
+        "position" "[902.95830000 -418.04060000 292.20630000]"
+        "look" "[840.67330000 -447.00050000 225.14010000]"
     }
 }
 cordon

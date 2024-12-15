@@ -30664,13 +30664,77 @@ entity
         "parentid" "1"
     }
 }
+entity
+{
+    "id" "1385"
+    "classname" "waypoint"
+    "position" "0 31.99984 -640"
+    "spawnflags" "0"
+    "origin" "0.00000000 -640.00000000 31.99984000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "1386"
+    "classname" "waypoint"
+    "position" "0 31.99984 640"
+    "spawnflags" "0"
+    "origin" "0.00000000 640.00000000 31.99984000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "1387"
+    "classname" "waypoint"
+    "position" "-640 31.99984 0"
+    "spawnflags" "0"
+    "origin" "-640.00000000 0.00000000 31.99984000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "1388"
+    "classname" "waypoint"
+    "position" "640 31.99984 0"
+    "spawnflags" "0"
+    "origin" "640.00000000 0.00000000 31.99984000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
 cameras
 {
     "activecamera" "0"
     camera
     {
-        "position" "[49.95439000 859.31100000 384.08640000]"
-        "look" "[34.59127000 719.03280000 360.29330000]"
+        "position" "[-214.36320000 125.97130000 340.13460000]"
+        "look" "[-103.77980000 58.22943000 279.61630000]"
     }
 }
 cordon

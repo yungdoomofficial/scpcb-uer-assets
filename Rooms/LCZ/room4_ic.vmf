@@ -18582,22 +18582,6 @@ entity
 }
 entity
 {
-    "id" "502"
-    "classname" "waypoint"
-    "position" "704 32 0"
-    "spawnflags" "0"
-    "origin" "704.00000000 0.00000000 32.00000000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "2"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
     "id" "503"
     "classname" "waypoint"
     "position" "704 32 -673"
@@ -19058,13 +19042,77 @@ entity
         "parentid" "1"
     }
 }
+entity
+{
+    "id" "548"
+    "classname" "waypoint"
+    "position" "0 31.99984 640"
+    "spawnflags" "0"
+    "origin" "0.00000000 640.00000000 31.99984000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "549"
+    "classname" "waypoint"
+    "position" "0 31.99984 -640"
+    "spawnflags" "0"
+    "origin" "0.00000000 -640.00000000 31.99984000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "552"
+    "classname" "waypoint"
+    "position" "640 31.99984 0"
+    "spawnflags" "0"
+    "origin" "640.00000000 0.00000000 31.99984000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "553"
+    "classname" "waypoint"
+    "position" "-640 31.99984 0"
+    "spawnflags" "0"
+    "origin" "-640.00000000 0.00000000 31.99984000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
 cameras
 {
     "activecamera" "0"
     camera
     {
-        "position" "[658.93370000 -795.28850000 243.62470000]"
-        "look" "[617.62980000 -709.93250000 228.63020000]"
+        "position" "[24.17336000 142.35580000 397.09030000]"
+        "look" "[85.88537000 84.84369000 351.25930000]"
     }
 }
 cordon
