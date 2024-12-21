@@ -51964,15 +51964,15 @@ entity
 {
     "id" "93"
     "classname" "mesh"
-    "angles" "360 0 360"
+    "angles" "360 -180 360"
     "file" "keyboard.b3d"
-    "position" "1576 -286.143 -639"
-    "scale" "1.5 1.5 1.5"
+    "position" "1566 -286.143 -640"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "1576.00000000 -639.00000000 -286.14300000"
+    "origin" "1566.00000000 -640.00000000 -286.14300000"
     editor
     {
         "color" "0 138 253"
@@ -53109,8 +53109,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[1.28599300 329.60470000 356.26040000]"
-        "look" "[23.88493000 392.48500000 287.33030000]"
+        "position" "[1571.11700000 -870.34220000 -148.10700000]"
+        "look" "[1572.51100000 -788.74040000 -198.65620000]"
     }
 }
 cordon

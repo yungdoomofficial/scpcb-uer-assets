@@ -21980,10 +21980,10 @@ entity
 {
     "id" "42"
     "classname" "mesh"
-    "angles" "360 -90 360"
+    "angles" "360 90 360"
     "file" "keyboard.b3d"
     "position" "654.238 120 85.9329"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -22288,10 +22288,10 @@ entity
 {
     "id" "60"
     "classname" "mesh"
-    "angles" "360 -90 360"
+    "angles" "360 90 360"
     "file" "keyboard.b3d"
     "position" "646.2379 120 -314.0671"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -23376,8 +23376,8 @@ entity
     "classname" "mesh"
     "position" "-969.03782 0 329.56403"
     "file" "keyboard.b3d"
-    "angles" "0 0 0"
-    "scale" "1.7 1.7 1.7"
+    "angles" "360 180 360"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" "GFX\map\textures\rockmoss.jpg"
@@ -23958,10 +23958,10 @@ entity
 {
     "id" "659"
     "classname" "mesh"
-    "angles" "360 90 360"
+    "angles" "360 -90 360"
     "file" "keyboard.b3d"
     "position" "1001.18678 120 -9.3169"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -24091,8 +24091,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[1111.43000000 -127.74810000 195.88100000]"
-        "look" "[1023.22500000 -121.00560000 158.59150000]"
+        "position" "[-680.99980000 188.09700000 193.35500000]"
+        "look" "[-750.03590000 232.92040000 143.94950000]"
     }
 }
 cordon

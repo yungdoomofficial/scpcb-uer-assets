@@ -30871,10 +30871,10 @@ entity
 {
     "id" "270"
     "classname" "mesh"
-    "angles" "360 -175.42248 360"
+    "angles" "360 4.57752 360"
     "file" "keyboard.b3d"
     "position" "791.7083 120 -786.21055"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -31003,10 +31003,10 @@ entity
 {
     "id" "283"
     "classname" "mesh"
-    "angles" "360 -175.42248 360"
+    "angles" "360 4.57752 360"
     "file" "keyboard.b3d"
     "position" "455.7083 120 -786.21055"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -31135,10 +31135,10 @@ entity
 {
     "id" "296"
     "classname" "mesh"
-    "angles" "360 -175.42248 360"
+    "angles" "360 4.57752 360"
     "file" "keyboard.b3d"
     "position" "445.7083 120 -559.21055"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -31267,10 +31267,10 @@ entity
 {
     "id" "309"
     "classname" "mesh"
-    "angles" "360 -172.72052 360"
+    "angles" "360 7.27948 360"
     "file" "keyboard.b3d"
     "position" "803.94691 120 -549.00557"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -31289,15 +31289,15 @@ entity
 {
     "id" "310"
     "classname" "mesh"
-    "angles" "360 177.14571 360"
+    "angles" "360 -158.64983 360"
     "file" "mouse.b3d"
-    "position" "756.99998 120 -552.00006"
+    "position" "742.99778 119.99999 -551.99251"
     "scale" "0.2 0.2 0.2"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "756.99998000 -552.00006000 120.00000000"
+    "origin" "742.99778000 -551.99251000 119.99999000"
     editor
     {
         "color" "255 0 255"
@@ -31591,10 +31591,10 @@ entity
 {
     "id" "644"
     "classname" "mesh"
-    "angles" "360 -175.42248 360"
+    "angles" "360 4.57752 360"
     "file" "keyboard.b3d"
     "position" "-791.88947 120 -783.94965"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -31723,15 +31723,15 @@ entity
 {
     "id" "650"
     "classname" "mesh"
-    "angles" "360 -175.42248 360"
+    "angles" "360 4.57752 360"
     "file" "keyboard.b3d"
-    "position" "-455.88947 120 -783.94965"
-    "scale" "1.7 1.7 1.7"
+    "position" "-449 120 -785"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-455.88947000 -783.94965000 120.00000000"
+    "origin" "-449.00000000 -785.00000000 120.00000000"
     editor
     {
         "color" "255 0 255"
@@ -31877,10 +31877,10 @@ entity
 {
     "id" "657"
     "classname" "mesh"
-    "angles" "360 -175.42248 360"
+    "angles" "360 4.57752 360"
     "file" "keyboard.b3d"
     "position" "-445.88947 120 -556.94965"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -31901,13 +31901,13 @@ entity
     "classname" "mesh"
     "angles" "360 -178.33774 360"
     "file" "mouse.b3d"
-    "position" "-492 120 -557"
+    "position" "-494 120 -557"
     "scale" "0.2 0.2 0.2"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-492.00000000 -557.00000000 120.00000000"
+    "origin" "-494.00000000 -557.00000000 120.00000000"
     editor
     {
         "color" "255 0 255"
@@ -31987,10 +31987,10 @@ entity
 {
     "id" "663"
     "classname" "mesh"
-    "angles" "360 -172.72052 360"
+    "angles" "360 7.27948 360"
     "file" "keyboard.b3d"
     "position" "-804.23445 120 -546.75573"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -32707,8 +32707,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-657.09620000 -310.43230000 200.41180000]"
-        "look" "[-676.86830000 -309.50940000 197.54310000]"
+        "position" "[-558.54270000 -353.00110000 224.97830000]"
+        "look" "[-559.70230000 -372.73840000 221.95910000]"
     }
 }
 cordon

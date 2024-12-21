@@ -36198,10 +36198,10 @@ entity
 {
     "id" "35"
     "classname" "mesh"
-    "angles" "360 0 360"
+    "angles" "360 180 360"
     "file" "keyboard.b3d"
     "position" "1553 344 413"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -36242,10 +36242,10 @@ entity
 {
     "id" "37"
     "classname" "mesh"
-    "angles" "360 90 360"
+    "angles" "360 -90 360"
     "file" "keyboard.b3d"
     "position" "1929.922 344 -169.2398"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -36852,13 +36852,13 @@ entity
     "classname" "mesh"
     "angles" "360 0 360"
     "file" "mouse.b3d"
-    "position" "1601 344 412"
+    "position" "1605 344 411"
     "scale" "0.2 0.2 0.2"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "1601.00000000 412.00000000 344.00000000"
+    "origin" "1605.00000000 411.00000000 344.00000000"
     editor
     {
         "color" "255 0 255"
@@ -38050,8 +38050,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[106.11200000 12.17040000 303.36990000]"
-        "look" "[47.40321000 -54.47325000 266.91690000]"
+        "position" "[1952.01000000 -23.12011000 414.65350000]"
+        "look" "[1924.27000000 -106.96670000 377.00810000]"
     }
 }
 cordon

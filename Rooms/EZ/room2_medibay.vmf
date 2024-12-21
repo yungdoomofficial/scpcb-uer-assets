@@ -30159,10 +30159,10 @@ entity
 {
     "id" "474"
     "classname" "mesh"
-    "angles" "0 90 0"
+    "angles" "360 -90 360"
     "file" "keyboard.b3d"
     "position" "320.07301 96 523.8745"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -30930,8 +30930,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-3.75522200 828.34280000 225.17650000]"
-        "look" "[-15.65125000 737.60070000 196.18940000]"
+        "position" "[454.64070000 530.02400000 242.92860000]"
+        "look" "[371.22150000 528.47710000 195.44460000]"
     }
 }
 cordon
