@@ -96787,10 +96787,10 @@ entity
 {
     "id" "2595"
     "classname" "mesh"
-    "angles" "360 -95.35233 360"
+    "angles" "360 84.64767 360"
     "file" "keyboard.b3d"
     "position" "-728 -4984 575"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -96879,10 +96879,10 @@ entity
 {
     "id" "2636"
     "classname" "mesh"
-    "angles" "360 -90 360"
+    "angles" "360 90 360"
     "file" "keyboard.b3d"
     "position" "-728 -5007.97822 330"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -97852,15 +97852,15 @@ entity
 {
     "id" "3222"
     "classname" "mesh"
-    "angles" "356.00426 63.31103 177.99376"
+    "angles" "356.00426 -116.68897 177.99376"
     "file" "keyboard.b3d"
-    "position" "-153 -5097 -1157"
-    "scale" "1.7 1.7 1.7"
+    "position" "-153.99283 -5097 -1157"
+    "scale" "1 1 1"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-153.00000000 -1157.00000000 -5097.00000000"
+    "origin" "-153.99283000 -1157.00000000 -5097.00000000"
     editor
     {
         "color" "255 0 255"
@@ -97944,10 +97944,10 @@ entity
 {
     "id" "3226"
     "classname" "mesh"
-    "angles" "360 -90 360"
+    "angles" "360 90 360"
     "file" "keyboard.b3d"
     "position" "-105.03695 -4984 -1393.31522"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -98386,8 +98386,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-146.43650000 16.77541000 364.75380000]"
-        "look" "[-89.80318000 -22.87544000 298.15260000]"
+        "position" "[-774.68430000 364.96230000 -4848.33600000]"
+        "look" "[-752.81870000 450.39760000 -4886.25500000]"
     }
 }
 cordon

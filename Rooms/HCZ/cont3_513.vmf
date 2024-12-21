@@ -44244,10 +44244,10 @@ entity
 {
     "id" "722"
     "classname" "mesh"
-    "angles" "360 85 360"
+    "angles" "360 -95 360"
     "file" "keyboard"
     "position" "-919.998 160 705.28156"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -44377,8 +44377,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-838.27290000 138.58560000 188.24770000]"
-        "look" "[-822.54020000 185.63600000 106.05770000]"
+        "position" "[-776.21170000 739.14430000 217.33060000]"
+        "look" "[-862.50600000 760.53770000 181.10800000]"
     }
 }
 cordon

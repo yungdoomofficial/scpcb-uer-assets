@@ -63622,8 +63622,8 @@ world
             "id" "6871"
             "plane" "(177.00000856 212.00001191 315.99997838) (177.00001598 460.00000569 315.99997838) (177.00001598 460.00000569 131.99998503)"
             "material" "tooltextures/invisible_collision"
-            "uaxis" "[0.00000003 1.00000000 0.00000000 96.03831138011988237547862886] 0.5"
-            "vaxis" "[0.00000000 0.00000000 -1.00000000 190.0051714978475108543720000] 0.5"
+            "uaxis" "[0.00000003 1.00000000 0.00000000 0.03831138011988237547862886] 0.5"
+            "vaxis" "[0.00000000 0.00000000 -1.00000000 30.0051714978475108543720000] 0.5"
             "rotation" "0.00"
             vertex
             {
@@ -64158,10 +64158,10 @@ entity
 {
     "id" "590"
     "classname" "mesh"
-    "angles" "360 0 360"
+    "angles" "360 180 360"
     "file" "keyboard.b3d"
     "position" "510.37091 120 794"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -64224,10 +64224,10 @@ entity
 {
     "id" "616"
     "classname" "mesh"
-    "angles" "360 -90 360"
+    "angles" "360 90 360"
     "file" "keyboard.b3d"
     "position" "665.92699 120 -52"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -65006,10 +65006,10 @@ entity
 {
     "id" "924"
     "classname" "mesh"
-    "angles" "360 90 360"
+    "angles" "360 -90 360"
     "file" "keyboard.b3d"
     "position" "259.57056 96 -200.99983"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -65095,8 +65095,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[545.70680000 581.51270000 255.38000000]"
-        "look" "[543.11540000 582.98670000 255.03910000]"
+        "position" "[443.95970000 -110.41720000 191.63970000]"
+        "look" "[441.24860000 -111.44730000 190.86980000]"
     }
 }
 cordon

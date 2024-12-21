@@ -19925,10 +19925,10 @@ entity
 {
     "id" "590"
     "classname" "mesh"
-    "angles" "360 89.99998 360"
+    "angles" "360 -90.00002 360"
     "file" "keyboard.b3d"
     "position" "-300 96 -263"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -20035,10 +20035,10 @@ entity
 {
     "id" "602"
     "classname" "mesh"
-    "angles" "360 -131.63934 360"
+    "angles" "360 48.36066 360"
     "file" "keyboard.b3d"
     "position" "302.85646 119.8572 -285.21916"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -20587,8 +20587,8 @@ cameras
     }
     camera
     {
-        "position" "[-443.48370000 -866.53710000 292.63100000]"
-        "look" "[-1141.17400000 151.59360000 -303.78160000]"
+        "position" "[74.47762000 -326.28540000 223.99840000]"
+        "look" "[1168.38500000 -886.76700000 -382.87620000]"
     }
 }
 cordon
