@@ -16138,6 +16138,28 @@ entity
         "parentid" "1"
     }
 }
+entity
+{
+    "id" "461"
+    "classname" "mesh"
+    "position" "188 0 -247"
+    "file" "plant"
+    "angles" "359.99999 0 360"
+    "scale" "0.75 0.75 0.75"
+    "hasCollision" "Yes"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "188.00000000 -247.00000000 0.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
 cameras
 {
     "activecamera" "0"
