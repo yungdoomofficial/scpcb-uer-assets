@@ -61784,10 +61784,10 @@ entity
 {
     "id" "1505"
     "classname" "mesh"
-    "angles" "360 173.31189 360"
+    "angles" "360 -6.68811 360"
     "file" "keyboard.b3d"
     "position" "775.30658 120 -910.44242"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -61850,10 +61850,10 @@ entity
 {
     "id" "1508"
     "classname" "mesh"
-    "angles" "0 180 0"
+    "angles" "360 0 360"
     "file" "keyboard.b3d"
     "position" "455.2272 120 -905.2312"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -62311,10 +62311,10 @@ entity
 {
     "id" "1675"
     "classname" "mesh"
-    "angles" "360 0 360"
+    "angles" "360 180 360"
     "file" "keyboard.b3d"
     "position" "844.7728 120 -332.76878"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -62507,10 +62507,10 @@ entity
 {
     "id" "1756"
     "classname" "mesh"
-    "angles" "360 -180 360"
+    "angles" "360 0 360"
     "file" "keyboard.b3d"
     "position" "442 120 396.99998"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -62703,10 +62703,10 @@ entity
 {
     "id" "2203"
     "classname" "mesh"
-    "angles" "360 90 360"
+    "angles" "360 -90 360"
     "file" "keyboard.b3d"
     "position" "-922.99991 96 572.99999"
-    "scale" "1.7 1.7 1.7"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -62727,13 +62727,13 @@ entity
     "classname" "mesh"
     "angles" "360 78 360"
     "file" "mouse.b3d"
-    "position" "-920.99991 96 620.99999"
+    "position" "-920 96 626"
     "scale" "0.2 0.2 0.2"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-920.99991000 620.99999000 96.00000000"
+    "origin" "-920.00000000 626.00000000 96.00000000"
     editor
     {
         "color" "255 0 255"
@@ -63232,8 +63232,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-491.98330000 -23.37681000 366.82910000]"
-        "look" "[-564.40300000 -60.45528000 315.87750000]"
+        "position" "[647.79570000 -441.90680000 190.49010000]"
+        "look" "[736.52740000 -405.98110000 183.31120000]"
     }
 }
 cordon
