@@ -39528,7 +39528,7 @@ entity
 {
     "id" "1003"
     "classname" "mesh"
-    "position" "-94 -257 0"
+    "position" "-94 -248.7992 30"
     "file" "pawn.b3d"
     "angles" "360 -180 360"
     "scale" "1 1 1"
@@ -39536,7 +39536,7 @@ entity
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-94.00000000 0.00000000 -257.00000000"
+    "origin" "-94.00000000 30.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -39550,7 +39550,7 @@ entity
 {
     "id" "1004"
     "classname" "mesh"
-    "position" "-85 -257 0"
+    "position" "-82 -248.7992 30"
     "file" "pawn.b3d"
     "angles" "360 -180 360"
     "scale" "1 1 1"
@@ -39558,7 +39558,7 @@ entity
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-85.00000000 0.00000000 -257.00000000"
+    "origin" "-82.00000000 30.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -39572,15 +39572,15 @@ entity
 {
     "id" "1005"
     "classname" "mesh"
-    "position" "-76 -257 0"
+    "position" "-69 -248.7992 30"
     "file" "pawn.b3d"
-    "angles" "360 -180 360"
+    "angles" "360 180 360"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-76.00000000 0.00000000 -257.00000000"
+    "origin" "-69.00000000 30.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -39594,15 +39594,15 @@ entity
 {
     "id" "1006"
     "classname" "mesh"
-    "position" "-67 -257 0"
+    "position" "-57 -248.7992 30"
     "file" "pawn.b3d"
-    "angles" "360 -180 360"
+    "angles" "360 180 360"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-67.00000000 0.00000000 -257.00000000"
+    "origin" "-57.00000000 30.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -39616,7 +39616,7 @@ entity
 {
     "id" "1007"
     "classname" "mesh"
-    "position" "-103 -257 0"
+    "position" "-107 -248.7992 31"
     "file" "pawn.b3d"
     "angles" "360 -180 360"
     "scale" "1 1 1"
@@ -39624,7 +39624,7 @@ entity
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-103.00000000 0.00000000 -257.00000000"
+    "origin" "-107.00000000 31.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -39638,7 +39638,7 @@ entity
 {
     "id" "1008"
     "classname" "mesh"
-    "position" "-112 -257 0"
+    "position" "-118 -248.7992 31"
     "file" "pawn.b3d"
     "angles" "360 -180 360"
     "scale" "1 1 1"
@@ -39646,7 +39646,7 @@ entity
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-112.00000000 0.00000000 -257.00000000"
+    "origin" "-118.00000000 31.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -39660,15 +39660,15 @@ entity
 {
     "id" "1009"
     "classname" "mesh"
-    "position" "-121 -257 0"
+    "position" "-128 -248.7992 31"
     "file" "pawn.b3d"
-    "angles" "360 -180 360"
+    "angles" "360 180 360"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-121.00000000 0.00000000 -257.00000000"
+    "origin" "-128.00000000 31.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -39682,15 +39682,15 @@ entity
 {
     "id" "1010"
     "classname" "mesh"
-    "position" "-131 -257 10"
+    "position" "-141 -248.7992 42"
     "file" "rook.b3d"
-    "angles" "360 -180 360"
+    "angles" "360 180 360"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-131.00000000 10.00000000 -257.00000000"
+    "origin" "-141.00000000 42.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -39704,15 +39704,15 @@ entity
 {
     "id" "1011"
     "classname" "mesh"
-    "position" "-122 -261 10"
+    "position" "-128 -252.7992 42"
     "file" "knight.b3d"
-    "angles" "360 -180 360"
+    "angles" "360 180 360"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-122.00000000 10.00000000 -261.00000000"
+    "origin" "-128.00000000 42.00000000 -252.79920000"
     editor
     {
         "color" "255 0 255"
@@ -39726,15 +39726,15 @@ entity
 {
     "id" "1012"
     "classname" "mesh"
-    "position" "-103 -257 10"
+    "position" "-106 -248.7992 41"
     "file" "king.b3d"
-    "angles" "360 -180 360"
+    "angles" "360 180 360"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-103.00000000 10.00000000 -257.00000000"
+    "origin" "-106.00000000 41.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -39748,15 +39748,15 @@ entity
 {
     "id" "1013"
     "classname" "mesh"
-    "position" "-94 -257 10"
+    "position" "-94 -248.7992 41"
     "file" "queen.b3d"
-    "angles" "360 -180 360"
+    "angles" "360 180 360"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-94.00000000 10.00000000 -257.00000000"
+    "origin" "-94.00000000 41.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -39770,15 +39770,15 @@ entity
 {
     "id" "1014"
     "classname" "mesh"
-    "position" "-85 -257 10"
+    "position" "-82 -248.7992 41"
     "file" "bishop.b3d"
-    "angles" "360 -180 360"
+    "angles" "360 180 360"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-85.00000000 10.00000000 -257.00000000"
+    "origin" "-82.00000000 41.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -39792,15 +39792,15 @@ entity
 {
     "id" "1015"
     "classname" "mesh"
-    "position" "-76 -261 10"
+    "position" "-70 -252.7992 41"
     "file" "knight.b3d"
-    "angles" "360 -180 360"
+    "angles" "360 180 360"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-76.00000000 10.00000000 -261.00000000"
+    "origin" "-70.00000000 41.00000000 -252.79920000"
     editor
     {
         "color" "255 0 255"
@@ -39814,15 +39814,15 @@ entity
 {
     "id" "1016"
     "classname" "mesh"
-    "position" "-67 -257 10"
+    "position" "-57 -248.7992 41"
     "file" "rook.b3d"
-    "angles" "360 -180 360"
+    "angles" "360 180 360"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-67.00000000 10.00000000 -257.00000000"
+    "origin" "-57.00000000 41.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -39836,15 +39836,15 @@ entity
 {
     "id" "1017"
     "classname" "mesh"
-    "position" "-131 -257 0"
+    "position" "-141 -248.7992 31"
     "file" "pawn.b3d"
-    "angles" "360 -180 360"
+    "angles" "360 180 360"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-131.00000000 0.00000000 -257.00000000"
+    "origin" "-141.00000000 31.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -39858,15 +39858,15 @@ entity
 {
     "id" "1018"
     "classname" "mesh"
-    "position" "-113 -257 10"
+    "position" "-118 -248.7992 41"
     "file" "bishop.b3d"
-    "angles" "360 -180 360"
+    "angles" "360 180 360"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-113.00000000 10.00000000 -257.00000000"
+    "origin" "-118.00000000 41.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -39880,7 +39880,7 @@ entity
 {
     "id" "1019"
     "classname" "mesh"
-    "position" "-67.01942 -257 -48.61845"
+    "position" "-57 -248.7992 -41"
     "file" "rook.b3d"
     "angles" "360 0 360"
     "scale" "1 1 1"
@@ -39888,7 +39888,7 @@ entity
     "meshFX" "0"
     "textureOverwrite" "GFX\Map\Textures\cable_black.jpg"
     "spawnflags" "0"
-    "origin" "-67.01942000 -48.61845000 -257.00000000"
+    "origin" "-57.00000000 -41.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -39902,7 +39902,7 @@ entity
 {
     "id" "1020"
     "classname" "mesh"
-    "position" "-67.01941 -257 -38.61845"
+    "position" "-57 -248.7992 -29"
     "file" "pawn.b3d"
     "angles" "360 0 360"
     "scale" "1 1 1"
@@ -39910,7 +39910,7 @@ entity
     "meshFX" "0"
     "textureOverwrite" "GFX\Map\Textures\cable_black.jpg"
     "spawnflags" "0"
-    "origin" "-67.01941000 -38.61845000 -257.00000000"
+    "origin" "-57.00000000 -29.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -39924,7 +39924,7 @@ entity
 {
     "id" "1021"
     "classname" "mesh"
-    "position" "-77.01941 -257 -38.61845"
+    "position" "-70 -248.7992 -29"
     "file" "pawn.b3d"
     "angles" "360 0 360"
     "scale" "1 1 1"
@@ -39932,7 +39932,7 @@ entity
     "meshFX" "0"
     "textureOverwrite" "GFX\Map\Textures\cable_black.jpg"
     "spawnflags" "0"
-    "origin" "-77.01941000 -38.61845000 -257.00000000"
+    "origin" "-70.00000000 -29.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -39946,7 +39946,7 @@ entity
 {
     "id" "1022"
     "classname" "mesh"
-    "position" "-76.01942 -261 -48.61845"
+    "position" "-70 -252.7992 -41"
     "file" "knight.b3d"
     "angles" "360 0 360"
     "scale" "1 1 1"
@@ -39954,7 +39954,7 @@ entity
     "meshFX" "0"
     "textureOverwrite" "GFX\Map\Textures\cable_black.jpg"
     "spawnflags" "0"
-    "origin" "-76.01942000 -48.61845000 -261.00000000"
+    "origin" "-70.00000000 -41.00000000 -252.79920000"
     editor
     {
         "color" "255 0 255"
@@ -39968,7 +39968,7 @@ entity
 {
     "id" "1023"
     "classname" "mesh"
-    "position" "-85.01942 -257 -48.61845"
+    "position" "-82 -248.7992 -42"
     "file" "bishop.b3d"
     "angles" "360 0 360"
     "scale" "1 1 1"
@@ -39976,7 +39976,7 @@ entity
     "meshFX" "0"
     "textureOverwrite" "GFX\Map\Textures\cable_black.jpg"
     "spawnflags" "0"
-    "origin" "-85.01942000 -48.61845000 -257.00000000"
+    "origin" "-82.00000000 -42.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -39990,7 +39990,7 @@ entity
 {
     "id" "1024"
     "classname" "mesh"
-    "position" "-86.01941 -257 -38.61845"
+    "position" "-83 -248.7992 -31"
     "file" "pawn.b3d"
     "angles" "360 0 360"
     "scale" "1 1 1"
@@ -39998,7 +39998,7 @@ entity
     "meshFX" "0"
     "textureOverwrite" "GFX\Map\Textures\cable_black.jpg"
     "spawnflags" "0"
-    "origin" "-86.01941000 -38.61845000 -257.00000000"
+    "origin" "-83.00000000 -31.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -40012,7 +40012,7 @@ entity
 {
     "id" "1025"
     "classname" "mesh"
-    "position" "-95.01941 -257 -38.61845"
+    "position" "-94 -248.7992 -31"
     "file" "pawn.b3d"
     "angles" "360 0 360"
     "scale" "1 1 1"
@@ -40020,7 +40020,7 @@ entity
     "meshFX" "0"
     "textureOverwrite" "GFX\Map\Textures\cable_black.jpg"
     "spawnflags" "0"
-    "origin" "-95.01941000 -38.61845000 -257.00000000"
+    "origin" "-94.00000000 -31.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -40034,7 +40034,7 @@ entity
 {
     "id" "1026"
     "classname" "mesh"
-    "position" "-95.01942 -257 -48.61845"
+    "position" "-94 -248.7992 -42"
     "file" "king.b3d"
     "angles" "360 0 360"
     "scale" "1 1 1"
@@ -40042,7 +40042,7 @@ entity
     "meshFX" "0"
     "textureOverwrite" "GFX\Map\Textures\cable_black.jpg"
     "spawnflags" "0"
-    "origin" "-95.01942000 -48.61845000 -257.00000000"
+    "origin" "-94.00000000 -42.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -40056,7 +40056,7 @@ entity
 {
     "id" "1027"
     "classname" "mesh"
-    "position" "-104.01942 -257 -48.61845"
+    "position" "-106 -248.7992 -42"
     "file" "queen.b3d"
     "angles" "360 0 360"
     "scale" "1 1 1"
@@ -40064,7 +40064,7 @@ entity
     "meshFX" "0"
     "textureOverwrite" "GFX\Map\Textures\cable_black.jpg"
     "spawnflags" "0"
-    "origin" "-104.01942000 -48.61845000 -257.00000000"
+    "origin" "-106.00000000 -42.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -40078,7 +40078,7 @@ entity
 {
     "id" "1028"
     "classname" "mesh"
-    "position" "-104.01941 -257 -38.61845"
+    "position" "-107 -248.7992 -31"
     "file" "pawn.b3d"
     "angles" "360 0 360"
     "scale" "1 1 1"
@@ -40086,7 +40086,7 @@ entity
     "meshFX" "0"
     "textureOverwrite" "GFX\Map\Textures\cable_black.jpg"
     "spawnflags" "0"
-    "origin" "-104.01941000 -38.61845000 -257.00000000"
+    "origin" "-107.00000000 -31.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -40100,7 +40100,7 @@ entity
 {
     "id" "1029"
     "classname" "mesh"
-    "position" "-113.01941 -257 -38.61845"
+    "position" "-117 -248.7992 -30"
     "file" "pawn.b3d"
     "angles" "360 0 360"
     "scale" "1 1 1"
@@ -40108,7 +40108,7 @@ entity
     "meshFX" "0"
     "textureOverwrite" "GFX\Map\Textures\cable_black.jpg"
     "spawnflags" "0"
-    "origin" "-113.01941000 -38.61845000 -257.00000000"
+    "origin" "-117.00000000 -30.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -40122,7 +40122,7 @@ entity
 {
     "id" "1030"
     "classname" "mesh"
-    "position" "-113.01942 -257 -48.61845"
+    "position" "-117 -248.7992 -42"
     "file" "bishop.b3d"
     "angles" "360 0 360"
     "scale" "1 1 1"
@@ -40130,7 +40130,7 @@ entity
     "meshFX" "0"
     "textureOverwrite" "GFX\Map\Textures\cable_black.jpg"
     "spawnflags" "0"
-    "origin" "-113.01942000 -48.61845000 -257.00000000"
+    "origin" "-117.00000000 -42.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -40144,7 +40144,7 @@ entity
 {
     "id" "1031"
     "classname" "mesh"
-    "position" "-122.01942 -261 -48.61845"
+    "position" "-129 -252.7992 -42"
     "file" "knight.b3d"
     "angles" "360 0 360"
     "scale" "1 1 1"
@@ -40152,7 +40152,7 @@ entity
     "meshFX" "0"
     "textureOverwrite" "GFX\Map\Textures\cable_black.jpg"
     "spawnflags" "0"
-    "origin" "-122.01942000 -48.61845000 -261.00000000"
+    "origin" "-129.00000000 -42.00000000 -252.79920000"
     editor
     {
         "color" "255 0 255"
@@ -40166,7 +40166,7 @@ entity
 {
     "id" "1032"
     "classname" "mesh"
-    "position" "-122.01941 -257 -38.61845"
+    "position" "-129 -248.7992 -30"
     "file" "pawn.b3d"
     "angles" "360 0 360"
     "scale" "1 1 1"
@@ -40174,7 +40174,7 @@ entity
     "meshFX" "0"
     "textureOverwrite" "GFX\Map\Textures\cable_black.jpg"
     "spawnflags" "0"
-    "origin" "-122.01941000 -38.61845000 -257.00000000"
+    "origin" "-129.00000000 -30.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -40188,7 +40188,7 @@ entity
 {
     "id" "1033"
     "classname" "mesh"
-    "position" "-131.01941 -257 -38.61845"
+    "position" "-140 -248.7992 -30"
     "file" "pawn.b3d"
     "angles" "360 0 360"
     "scale" "1 1 1"
@@ -40196,7 +40196,7 @@ entity
     "meshFX" "0"
     "textureOverwrite" "GFX\Map\Textures\cable_black.jpg"
     "spawnflags" "0"
-    "origin" "-131.01941000 -38.61845000 -257.00000000"
+    "origin" "-140.00000000 -30.00000000 -248.79920000"
     editor
     {
         "color" "255 0 255"
@@ -40210,7 +40210,7 @@ entity
 {
     "id" "1034"
     "classname" "mesh"
-    "position" "-131.01942 -257 -48.61845"
+    "position" "-141 -248.7992 -42"
     "file" "rook.b3d"
     "angles" "360 0 360"
     "scale" "1 1 1"
@@ -40218,7 +40218,29 @@ entity
     "meshFX" "0"
     "textureOverwrite" "GFX\Map\Textures\cable_black.jpg"
     "spawnflags" "0"
-    "origin" "-131.01942000 -48.61845000 -257.00000000"
+    "origin" "-141.00000000 -42.00000000 -248.79920000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "3"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "1035"
+    "classname" "mesh"
+    "position" "-99 -264 0"
+    "file" "chessboard.b3d"
+    "angles" "360 -180 360"
+    "scale" "20 20 20"
+    "hasCollision" "Yes"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "-99.00000000 0.00000000 -264.00000000"
     editor
     {
         "color" "255 0 255"
@@ -40233,8 +40255,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-1274.23900000 -538.49060000 -52.02764000]"
-        "look" "[-1178.38400000 -543.62380000 -53.87130000]"
+        "position" "[177.76250000 -174.63830000 -127.45500000]"
+        "look" "[102.20580000 -117.77620000 -144.06210000]"
     }
 }
 cordon
