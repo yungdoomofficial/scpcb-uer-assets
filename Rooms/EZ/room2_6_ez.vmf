@@ -33462,7 +33462,7 @@ entity
     "file" "plant2.b3d"
     "position" "499 0 -203"
     "scale" "0.15 0.15 0.15"
-    "hasCollision" "No"
+    "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
@@ -33484,7 +33484,7 @@ entity
     "file" "plant2.b3d"
     "position" "499 0 203"
     "scale" "0.15 0.15 0.15"
-    "hasCollision" "No"
+    "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
@@ -33525,8 +33525,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-180.33120000 -757.44240000 226.69710000]"
-        "look" "[-86.78375000 -773.99550000 212.86420000]"
+        "position" "[-36.42310000 578.31650000 163.65490000]"
+        "look" "[-22.89868000 484.77580000 146.81180000]"
     }
 }
 cordon
