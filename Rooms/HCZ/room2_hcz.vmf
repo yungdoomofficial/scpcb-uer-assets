@@ -43662,7 +43662,7 @@ entity
     "id" "491"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-164.87674 388.24 -507.44881"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -43684,7 +43684,7 @@ entity
     "id" "492"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-168.33274 388.24 4.03919"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -43706,7 +43706,7 @@ entity
     "id" "493"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-159.69274 388.24 518.98319"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -43728,7 +43728,7 @@ entity
     "id" "494"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "177.80726 388.24 512.31652"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -43750,7 +43750,7 @@ entity
     "id" "495"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "169.16726 388.24 -2.62748"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -43772,7 +43772,7 @@ entity
     "id" "496"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "172.62326 388.24 -514.11548"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -43936,6 +43936,7 @@ entity
     {
         "color" "255 0 255"
         "visgroupid" "2"
+        "visgroupid" "3"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -43952,6 +43953,7 @@ entity
     {
         "color" "255 0 255"
         "visgroupid" "2"
+        "visgroupid" "3"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -43962,8 +43964,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-93.42053000 -316.88780000 253.85190000]"
-        "look" "[-36.72071000 -241.62590000 235.49130000]"
+        "position" "[79.42546000 10.30881000 79.50290000]"
+        "look" "[89.43413000 100.72740000 48.83456000]"
     }
 }
 cordon

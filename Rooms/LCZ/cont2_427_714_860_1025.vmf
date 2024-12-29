@@ -3361,6 +3361,7 @@ world
         editor
         {
             "color" "0 156 214"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -3474,6 +3475,7 @@ world
         editor
         {
             "color" "0 190 178"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -3587,6 +3589,7 @@ world
         editor
         {
             "color" "0 141 198"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -3700,6 +3703,7 @@ world
         editor
         {
             "color" "0 212 240"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -3813,6 +3817,7 @@ world
         editor
         {
             "color" "0 181 236"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -4383,6 +4388,7 @@ world
         editor
         {
             "color" "0 244 221"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -4496,6 +4502,7 @@ world
         editor
         {
             "color" "0 199 213"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -4609,6 +4616,7 @@ world
         editor
         {
             "color" "0 211 182"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -4722,6 +4730,7 @@ world
         editor
         {
             "color" "0 155 177"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -4835,6 +4844,7 @@ world
         editor
         {
             "color" "0 196 197"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -46072,6 +46082,7 @@ world
         editor
         {
             "color" "0 213 243"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -46185,6 +46196,7 @@ world
         editor
         {
             "color" "0 213 243"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -46426,7 +46438,7 @@ entity
     "id" "868"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2"
+    "file" "lamp_c"
     "position" "0 620 832"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -46448,7 +46460,7 @@ entity
     "id" "869"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-0.0001 620 0"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -46470,7 +46482,7 @@ entity
     "id" "870"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "0 320 -736"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -46492,7 +46504,7 @@ entity
     "id" "875"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-560 336 0"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -46514,7 +46526,7 @@ entity
     "id" "876"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "560 336 0"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -46536,7 +46548,7 @@ entity
     "id" "877"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-560 336 568"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -46558,7 +46570,7 @@ entity
     "id" "878"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-560 336 -568"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -46596,7 +46608,7 @@ entity
     "id" "884"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "560 336 568"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -46634,7 +46646,7 @@ entity
     "id" "886"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "560 336 -568"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -46767,8 +46779,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[20.19736000 -381.07820000 320.10680000]"
-        "look" "[10.64862000 -294.54850000 279.63830000]"
+        "position" "[9.72503800 48.88755000 450.56370000]"
+        "look" "[10.74248000 136.56100000 411.46650000]"
     }
 }
 cordon

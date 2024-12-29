@@ -5388,7 +5388,7 @@ entity
     "id" "94"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-0.00004 488 -640.12185"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -5410,7 +5410,7 @@ entity
     "id" "95"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-0.00001 488 639.87816"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -5432,7 +5432,7 @@ entity
     "id" "96"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-0.00001 488 -0.12206"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -5462,6 +5462,7 @@ entity
     editor
     {
         "color" "0 146 141"
+        "visgroupid" "2"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -5484,6 +5485,7 @@ entity
     editor
     {
         "color" "0 146 141"
+        "visgroupid" "2"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -5506,6 +5508,7 @@ entity
     editor
     {
         "color" "0 146 141"
+        "visgroupid" "2"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -5528,6 +5531,7 @@ entity
     editor
     {
         "color" "0 146 141"
+        "visgroupid" "2"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -5550,6 +5554,7 @@ entity
     editor
     {
         "color" "0 146 141"
+        "visgroupid" "2"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -5572,6 +5577,7 @@ entity
     editor
     {
         "color" "0 146 141"
+        "visgroupid" "2"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -5632,6 +5638,7 @@ entity
     editor
     {
         "color" "0 146 141"
+        "visgroupid" "2"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -5752,6 +5759,7 @@ entity
     editor
     {
         "color" "0 146 141"
+        "visgroupid" "2"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -5836,8 +5844,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[203.74860000 338.23820000 423.77310000]"
-        "look" "[156.55870000 385.65520000 354.91960000]"
+        "position" "[52.47188000 -659.50020000 372.17620000]"
+        "look" "[26.37555000 -574.15670000 336.79950000]"
     }
 }
 cordon

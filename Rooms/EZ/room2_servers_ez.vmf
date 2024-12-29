@@ -37515,7 +37515,7 @@ entity
     "id" "624"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "552 321 712"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -37537,7 +37537,7 @@ entity
     "id" "625"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "664 -96 -856"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -37559,7 +37559,7 @@ entity
     "id" "626"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-352 -312 -728"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -37799,7 +37799,7 @@ entity
     "id" "746"
     "classname" "mesh"
     "angles" "0 180 0"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "0 332 511.9999"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -37821,7 +37821,7 @@ entity
     "id" "747"
     "classname" "mesh"
     "angles" "360 -180 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-0.00004 332 -0.00006"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -37881,7 +37881,7 @@ entity
     "id" "750"
     "classname" "mesh"
     "angles" "360 180 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "0.00006 332 -511.99989"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -37947,7 +37947,7 @@ entity
     "id" "1172"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-352 -120 304"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -39523,7 +39523,7 @@ entity
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "2"
+        "visgroupid" "3"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -39534,8 +39534,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[17.27153000 -570.69170000 -502.17730000]"
-        "look" "[-40.28591000 -512.80990000 -552.70810000]"
+        "position" "[28.13825000 148.45990000 189.32890000]"
+        "look" "[20.36966000 56.23585000 163.81810000]"
     }
 }
 cordon

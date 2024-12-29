@@ -42450,6 +42450,7 @@ world
         editor
         {
             "color" "0 243 248"
+            "visgroupid" "5"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -42544,6 +42545,7 @@ world
         editor
         {
             "color" "0 243 248"
+            "visgroupid" "5"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -44477,7 +44479,7 @@ entity
     "id" "821"
     "classname" "mesh"
     "angles" "360 90 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "864 332 -848"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -44605,7 +44607,7 @@ entity
     "id" "984"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-918 332 -918"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -44627,7 +44629,7 @@ entity
     "id" "985"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-918 332 912"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -44649,7 +44651,7 @@ entity
     "id" "987"
     "classname" "mesh"
     "angles" "0 0 0"
-    "file" "lamp2"
+    "file" "lamp_c"
     "position" "512 332 0.00006"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -44691,7 +44693,7 @@ entity
     "id" "989"
     "classname" "mesh"
     "angles" "0 0 0"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-512 332 0.00006"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -44773,7 +44775,7 @@ entity
     "id" "1010"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "512 332 912"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -44988,8 +44990,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-69.83308000 473.24710000 91.78778000]"
-        "look" "[-71.86927000 556.58140000 44.16738000]"
+        "position" "[13.24829000 -239.26970000 64.61272000]"
+        "look" "[87.36588000 -225.31820000 5.21259700]"
     }
 }
 cordon

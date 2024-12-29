@@ -40378,6 +40378,7 @@ world
         editor
         {
             "color" "0 243 248"
+            "visgroupid" "5"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -43730,6 +43731,7 @@ world
         editor
         {
             "color" "0 243 248"
+            "visgroupid" "5"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -46040,7 +46042,7 @@ entity
     "id" "153"
     "classname" "mesh"
     "angles" "0 0 0"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-512 332 0.00006"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -46062,7 +46064,7 @@ entity
     "id" "154"
     "classname" "mesh"
     "angles" "0 0 0"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "512 332 0.00006"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -46084,7 +46086,7 @@ entity
     "id" "155"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-848 332 -852"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -46393,7 +46395,7 @@ entity
     "id" "616"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "512 332 640"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -46415,7 +46417,7 @@ entity
     "id" "617"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "512 332 -608"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -46437,7 +46439,7 @@ entity
     "id" "618"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2"
+    "file" "lamp_c"
     "position" "-256 332 -448"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -46459,7 +46461,7 @@ entity
     "id" "619"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-256 332 640"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -46776,8 +46778,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[121.44470000 27.81041000 287.28700000]"
-        "look" "[46.76411000 87.40987000 296.59750000]"
+        "position" "[88.60690000 50.75950000 226.45480000]"
+        "look" "[172.43530000 67.61578000 182.81280000]"
     }
 }
 cordon

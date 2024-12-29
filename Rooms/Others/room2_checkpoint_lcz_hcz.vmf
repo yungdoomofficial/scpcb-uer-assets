@@ -44877,7 +44877,7 @@ world
         editor
         {
             "color" "0 240 200"
-            "visgroupid" "5"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -44991,7 +44991,7 @@ world
         editor
         {
             "color" "0 240 200"
-            "visgroupid" "5"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -45105,7 +45105,7 @@ world
         editor
         {
             "color" "0 240 200"
-            "visgroupid" "5"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -45219,7 +45219,7 @@ world
         editor
         {
             "color" "0 240 200"
-            "visgroupid" "5"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -46359,7 +46359,7 @@ world
         editor
         {
             "color" "0 160 139"
-            "visgroupid" "5"
+            "visgroupid" "6"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -47613,7 +47613,7 @@ world
         editor
         {
             "color" "0 199 218"
-            "visgroupid" "5"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -47727,7 +47727,7 @@ world
         editor
         {
             "color" "0 199 218"
-            "visgroupid" "5"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -47841,7 +47841,7 @@ world
         editor
         {
             "color" "0 199 218"
-            "visgroupid" "5"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -47955,7 +47955,7 @@ world
         editor
         {
             "color" "0 199 218"
-            "visgroupid" "5"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -48069,7 +48069,7 @@ world
         editor
         {
             "color" "0 199 218"
-            "visgroupid" "5"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -48183,7 +48183,7 @@ world
         editor
         {
             "color" "0 199 218"
-            "visgroupid" "5"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -48628,7 +48628,7 @@ entity
     "id" "624"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "1022.1781 291.99835 -341.46111"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -48639,7 +48639,7 @@ entity
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "2"
+        "visgroupid" "4"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -48670,7 +48670,7 @@ entity
     "id" "627"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "1022.17815 291.99832 359.27221"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -48896,7 +48896,7 @@ entity
     "id" "1074"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "0.00076 619.99991 428.98222"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -48918,7 +48918,7 @@ entity
     "id" "1075"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "0.00072 619.9999 -434.35672"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -49031,7 +49031,7 @@ entity
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "3"
+        "visgroupid" "4"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -49053,7 +49053,7 @@ entity
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "3"
+        "visgroupid" "4"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -49064,8 +49064,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[1126.32200000 87.89040000 196.07990000]"
-        "look" "[1034.72000000 82.94247000 167.77090000]"
+        "position" "[-376.72740000 410.07350000 473.92310000]"
+        "look" "[-362.28630000 338.60340000 411.47090000]"
     }
 }
 cordon

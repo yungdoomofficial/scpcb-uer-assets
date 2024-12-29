@@ -13,7 +13,7 @@ visgroups
     {
         "name" "solids"
         "visgroupid" "1"
-        "color" "0 128 192"
+        "color" "0 128 255"
     }
     visgroup
     {
@@ -39486,7 +39486,7 @@ world
         {
             "id" "5734"
             "plane" "(-720.00580619 1.99995053 320.00015740) (-1168.00027809 2.00001665 320.00015496) (-1168.00027809 897.99966703 320.00015496)"
-            "material" "tooltextures/block_light"
+            "material" "tooltextures/invisible_collision"
             "uaxis" "[0.00000000 1.00000000 0.00000000 23.493594936708860759493670908] 0.395"
             "vaxis" "[1.00000000 0.00000000 0.00000001 15.9047619048284500135066691] 0.42"
             "rotation" "90"
@@ -39714,7 +39714,7 @@ world
         {
             "id" "5746"
             "plane" "(-848.00237176 897.99999978 320.00009646) (-1039.99999983 898.00000214 320.00009402) (-1039.99999983 930.00004802 320.00009402)"
-            "material" "tooltextures/block_light"
+            "material" "tooltextures/invisible_collision"
             "uaxis" "[0.00000000 1.00000000 0.00000000 12.6582935211415355487088608] 0.395"
             "vaxis" "[1.00000000 0.00000000 0.00000002 15.9046824586067611955951665] 0.42"
             "rotation" "90"
@@ -41197,7 +41197,7 @@ entity
     "id" "10"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "0 620 448"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -41312,7 +41312,7 @@ entity
     "id" "607"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "0 620 -158"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -41334,7 +41334,7 @@ entity
     "id" "662"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-944 652 448"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -41386,50 +41386,6 @@ entity
     {
         "color" "255 0 255"
         "visgroupid" "3"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
-    "id" "667"
-    "classname" "mesh"
-    "angles" "360 180 360"
-    "file" "door01.b3d"
-    "position" "-944 319 921"
-    "scale" "18 13.5 10"
-    "hasCollision" "No"
-    "meshFX" "0"
-    "textureOverwrite" ""
-    "spawnflags" "0"
-    "origin" "-944.00000000 921.00000000 319.00000000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "2"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
-    "id" "668"
-    "classname" "mesh"
-    "angles" "360 -180 360"
-    "file" "doorframe.b3d"
-    "position" "-944 320.0002 930"
-    "scale" "1 1 1"
-    "hasCollision" "No"
-    "meshFX" "0"
-    "textureOverwrite" ""
-    "spawnflags" "0"
-    "origin" "-944.00000000 930.00000000 320.00020000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "2"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -41541,8 +41497,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-40.74423000 -477.61890000 294.37840000]"
-        "look" "[-30.19414000 -524.30020000 298.05220000]"
+        "position" "[-81.21261000 342.58700000 604.86190000]"
+        "look" "[-85.51194000 297.77880000 588.19780000]"
     }
 }
 cordon

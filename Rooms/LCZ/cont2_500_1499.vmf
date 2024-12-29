@@ -52868,6 +52868,7 @@ world
         editor
         {
             "color" "0 213 243"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -53175,7 +53176,7 @@ entity
     "id" "907"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2"
+    "file" "lamp_c"
     "position" "0 620 832"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -53197,7 +53198,7 @@ entity
     "id" "908"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "1022 332 672"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -53329,7 +53330,7 @@ entity
     "id" "914"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "552 444 652"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -53351,7 +53352,7 @@ entity
     "id" "915"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "616 444 -32"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -53593,7 +53594,7 @@ entity
     "id" "926"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2"
+    "file" "lamp_c"
     "position" "0 620 -832"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -53615,7 +53616,7 @@ entity
     "id" "927"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-0.0001 620 0"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -53670,7 +53671,7 @@ entity
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "2"
+        "visgroupid" "3"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -53717,8 +53718,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[599.78990000 815.41020000 187.32530000]"
-        "look" "[577.40720000 887.60290000 128.13730000]"
+        "position" "[-17.77506000 318.26910000 574.22110000]"
+        "look" "[1.06648800 397.92420000 524.06100000]"
     }
 }
 cordon

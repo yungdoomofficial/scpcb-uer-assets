@@ -42043,7 +42043,7 @@ world
         editor
         {
             "color" "0 218 155"
-            "visgroupid" "6"
+            "visgroupid" "5"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -43986,7 +43986,7 @@ entity
     "id" "1339"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "559 319 29.56457"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -44008,7 +44008,7 @@ entity
     "id" "1340"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2"
+    "file" "lamp_c"
     "position" "0 620 832"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -44030,7 +44030,7 @@ entity
     "id" "1341"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-0.0001 620 0"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -44052,7 +44052,7 @@ entity
     "id" "1342"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2"
+    "file" "lamp_c"
     "position" "0 620 -832"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -44448,7 +44448,7 @@ entity
     "id" "1360"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-1120 274 0"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -44519,8 +44519,8 @@ cameras
     }
     camera
     {
-        "position" "[-886.87200000 -226.14690000 -127.76640000]"
-        "look" "[-888.53390000 -227.28940000 -131.90950000]"
+        "position" "[-41.91742000 -687.08250000 313.25850000]"
+        "look" "[-42.39644000 -682.52280000 312.79790000]"
     }
 }
 cordon

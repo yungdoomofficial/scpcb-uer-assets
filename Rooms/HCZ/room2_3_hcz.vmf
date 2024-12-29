@@ -3000,6 +3000,7 @@ world
         editor
         {
             "color" "0 144 187"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -3474,6 +3475,7 @@ world
         editor
         {
             "color" "0 176 231"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -3948,6 +3950,7 @@ world
         editor
         {
             "color" "0 137 172"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -4422,6 +4425,7 @@ world
         editor
         {
             "color" "0 185 179"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -4896,6 +4900,7 @@ world
         editor
         {
             "color" "0 145 247"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -5370,6 +5375,7 @@ world
         editor
         {
             "color" "0 231 186"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -5844,6 +5850,7 @@ world
         editor
         {
             "color" "0 143 206"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -6318,6 +6325,7 @@ world
         editor
         {
             "color" "0 205 208"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -6792,6 +6800,7 @@ world
         editor
         {
             "color" "0 242 172"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -7266,6 +7275,7 @@ world
         editor
         {
             "color" "0 224 151"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -9792,6 +9802,7 @@ world
         editor
         {
             "color" "0 246 236"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -10266,6 +10277,7 @@ world
         editor
         {
             "color" "0 175 138"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -10740,6 +10752,7 @@ world
         editor
         {
             "color" "0 144 162"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -11214,6 +11227,7 @@ world
         editor
         {
             "color" "0 202 215"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -11688,6 +11702,7 @@ world
         editor
         {
             "color" "0 238 211"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -12162,6 +12177,7 @@ world
         editor
         {
             "color" "0 214 225"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -12636,6 +12652,7 @@ world
         editor
         {
             "color" "0 150 241"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -14060,6 +14077,7 @@ world
         editor
         {
             "color" "0 161 175"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -62275,7 +62293,7 @@ entity
     "id" "830"
     "classname" "mesh"
     "angles" "360 180 450"
-    "file" "lamp3_b.b3d"
+    "file" "lamp_e.b3d"
     "position" "-207 308.38798 0"
     "scale" "350 350 350"
     "hasCollision" "No"
@@ -62329,8 +62347,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[50.29057000 -206.92470000 276.08360000]"
-        "look" "[13.54464000 -125.23130000 241.56350000]"
+        "position" "[51.57992000 -219.72330000 320.96230000]"
+        "look" "[53.45863000 -134.24460000 277.30890000]"
     }
 }
 cordon

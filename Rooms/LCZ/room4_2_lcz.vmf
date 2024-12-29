@@ -40465,7 +40465,7 @@ entity
     "id" "826"
     "classname" "mesh"
     "angles" "0 0 0"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "0 748 -383.9999"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -40487,7 +40487,7 @@ entity
     "id" "827"
     "classname" "mesh"
     "angles" "0 0 0"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "0 748 383.9999"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -40509,7 +40509,7 @@ entity
     "id" "828"
     "classname" "mesh"
     "angles" "0 -90 0"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-383.9999 748 0.00006"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -40531,7 +40531,7 @@ entity
     "id" "829"
     "classname" "mesh"
     "angles" "0 -90 0"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "384 748 0.00006"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -40654,7 +40654,7 @@ entity
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "2"
+        "visgroupid" "3"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -40670,7 +40670,7 @@ entity
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "2"
+        "visgroupid" "3"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -40686,7 +40686,7 @@ entity
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "2"
+        "visgroupid" "3"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -40702,7 +40702,7 @@ entity
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "2"
+        "visgroupid" "3"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -40713,8 +40713,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-94.79498000 101.04540000 552.35140000]"
-        "look" "[48.75202000 117.02850000 425.84650000]"
+        "position" "[21.41837000 320.58910000 665.30350000]"
+        "look" "[16.62115000 169.14050000 547.38380000]"
     }
 }
 cordon

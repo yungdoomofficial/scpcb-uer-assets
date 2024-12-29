@@ -6692,6 +6692,7 @@ world
         editor
         {
             "color" "0 133 210"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -7375,6 +7376,7 @@ world
         editor
         {
             "color" "0 158 193"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -7488,6 +7490,7 @@ world
         editor
         {
             "color" "0 230 208"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -7601,6 +7604,7 @@ world
         editor
         {
             "color" "0 200 153"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -7714,6 +7718,7 @@ world
         editor
         {
             "color" "0 182 172"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -29002,6 +29007,7 @@ world
         editor
         {
             "color" "0 128 241"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -42894,7 +42900,7 @@ entity
     "id" "711"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "0 644 483.94683"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -42936,7 +42942,7 @@ entity
     "id" "713"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "0 644 -484.85282"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -43146,7 +43152,7 @@ entity
     "id" "846"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-608 444 -256"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -43168,7 +43174,7 @@ entity
     "id" "847"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-608 444 256"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -43376,8 +43382,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-530.96360000 -149.92580000 171.70890000]"
-        "look" "[-450.79440000 -110.68640000 136.35870000]"
+        "position" "[-53.74594000 264.07770000 346.53910000]"
+        "look" "[-43.78966000 169.90480000 330.76540000]"
     }
 }
 cordon

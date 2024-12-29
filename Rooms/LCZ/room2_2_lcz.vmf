@@ -46419,7 +46419,7 @@ entity
     "id" "348"
     "classname" "mesh"
     "angles" "0 0 0"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "0 620 0"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -46441,7 +46441,7 @@ entity
     "id" "349"
     "classname" "mesh"
     "angles" "0 0 0"
-    "file" "lamp2"
+    "file" "lamp_c"
     "position" "0 620 768"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -46463,7 +46463,7 @@ entity
     "id" "350"
     "classname" "mesh"
     "angles" "0 0 0"
-    "file" "lamp2"
+    "file" "lamp_c"
     "position" "0 620 -768"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -46594,54 +46594,10 @@ entity
 }
 entity
 {
-    "id" "377"
-    "classname" "mesh"
-    "position" "584.01005 120 -242.69388"
-    "file" "flower_pot"
-    "angles" "360 -15 360"
-    "scale" "1.0 1.0 1.0"
-    "hasCollision" "No"
-    "meshFX" "0"
-    "textureOverwrite" ""
-    "spawnflags" "0"
-    "origin" "584.01005000 -242.69388000 120.00000000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "3"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
-    "id" "378"
-    "classname" "mesh"
-    "angles" "360 -105 360"
-    "file" "tree"
-    "position" "583.01005 158 -242.69388"
-    "scale" "15 15 15"
-    "hasCollision" "No"
-    "meshFX" "0"
-    "textureOverwrite" ""
-    "spawnflags" "0"
-    "origin" "583.01005000 -242.69388000 158.00000000"
-    editor
-    {
-        "color" "0 209 151"
-        "visgroupid" "3"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
     "id" "388"
     "classname" "mesh"
     "angles" "360 90 450"
-    "file" "lamp3"
+    "file" "lamp_d"
     "position" "464 312 279"
     "scale" "350 350 350"
     "hasCollision" "No"
@@ -46705,7 +46661,7 @@ entity
     "id" "426"
     "classname" "mesh"
     "angles" "360 180 450"
-    "file" "lamp3.b3d"
+    "file" "lamp_d.b3d"
     "position" "401.91949 346 -622.79188"
     "scale" "350 350 150"
     "hasCollision" "No"
@@ -47030,7 +46986,7 @@ entity
     "id" "497"
     "classname" "mesh"
     "angles" "360 -90 450"
-    "file" "lamp3"
+    "file" "lamp_d"
     "position" "805 312 -975"
     "scale" "350 350 350"
     "hasCollision" "No"
@@ -47052,7 +47008,7 @@ entity
     "id" "498"
     "classname" "mesh"
     "angles" "0 0 0"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "832 316 0"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -47094,7 +47050,7 @@ entity
     "id" "584"
     "classname" "mesh"
     "angles" "360 90 450"
-    "file" "lamp3"
+    "file" "lamp_d"
     "position" "805 312 975"
     "scale" "350 350 350"
     "hasCollision" "No"
@@ -47261,13 +47217,35 @@ entity
         "parentid" "1"
     }
 }
+entity
+{
+    "id" "599"
+    "classname" "mesh"
+    "angles" "360 0 360"
+    "file" "plant2.b3d"
+    "position" "584 120 -245"
+    "scale" "0.06 0.06 0.06"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "584.00000000 -245.00000000 120.00000000"
+    editor
+    {
+        "color" "0 209 151"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
 cameras
 {
     "activecamera" "0"
     camera
     {
-        "position" "[-141.64230000 -12.21247000 454.48220000]"
-        "look" "[-74.67260000 -26.57917000 387.21080000]"
+        "position" "[6.57901500 104.93350000 406.62230000]"
+        "look" "[2.89837700 18.34180000 365.32940000]"
     }
 }
 cordon

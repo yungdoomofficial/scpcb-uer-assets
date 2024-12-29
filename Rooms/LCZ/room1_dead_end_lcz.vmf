@@ -13,7 +13,7 @@ visgroups
     {
         "name" "solids"
         "visgroupid" "1"
-        "color" "0 224 233"
+        "color" "0 128 255"
     }
     visgroup
     {
@@ -25,7 +25,7 @@ visgroups
     {
         "name" "entities"
         "visgroupid" "3"
-        "color" "0 184 225"
+        "color" "0 255 255"
     }
     visgroup
     {
@@ -36068,7 +36068,7 @@ entity
     "id" "576"
     "classname" "mesh"
     "angles" "0 0 0"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "0 620 -576"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -36090,7 +36090,7 @@ entity
     "id" "577"
     "classname" "mesh"
     "angles" "0 0 0"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "0 620 256"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -36235,7 +36235,7 @@ entity
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "2"
+        "visgroupid" "3"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -36251,7 +36251,7 @@ entity
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "2"
+        "visgroupid" "3"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -36262,8 +36262,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[116.36840000 -70.93271000 292.22650000]"
-        "look" "[92.68224000 -108.43510000 273.88400000]"
+        "position" "[0.31840130 -553.98130000 391.13570000]"
+        "look" "[1.13284200 -506.68810000 382.97520000]"
     }
 }
 cordon

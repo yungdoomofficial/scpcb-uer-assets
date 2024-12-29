@@ -45427,7 +45427,7 @@ entity
     "id" "36"
     "classname" "mesh"
     "angles" "0 0 0"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "0 748 -383.9999"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -45449,7 +45449,7 @@ entity
     "id" "37"
     "classname" "mesh"
     "angles" "0 0 0"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "0 748 383.9999"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -45471,7 +45471,7 @@ entity
     "id" "38"
     "classname" "mesh"
     "angles" "0 -90 0"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-383.9999 748 0.00006"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -45493,7 +45493,7 @@ entity
     "id" "39"
     "classname" "mesh"
     "angles" "0 -90 0"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "384 748 0.00006"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -45704,7 +45704,7 @@ entity
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "2"
+        "visgroupid" "3"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -45720,7 +45720,7 @@ entity
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "2"
+        "visgroupid" "3"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -45736,7 +45736,7 @@ entity
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "2"
+        "visgroupid" "3"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -45752,7 +45752,7 @@ entity
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "2"
+        "visgroupid" "3"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -45763,8 +45763,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-53.19151000 -220.52790000 488.82650000]"
-        "look" "[-73.70381000 -80.98624000 358.54850000]"
+        "position" "[-26.54637000 13.33011000 546.83090000]"
+        "look" "[-8.91471300 -131.62630000 422.16380000]"
     }
 }
 cordon

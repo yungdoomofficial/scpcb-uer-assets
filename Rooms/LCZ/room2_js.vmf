@@ -49180,7 +49180,7 @@ entity
     "id" "2899"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "1058 368 576"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -49774,7 +49774,7 @@ entity
     "id" "2926"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2"
+    "file" "lamp_c"
     "position" "0 620 -832"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -49796,7 +49796,7 @@ entity
     "id" "2927"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-0.0001 620 0"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -49818,7 +49818,7 @@ entity
     "id" "2928"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2"
+    "file" "lamp_c"
     "position" "0 620 832"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -49867,7 +49867,7 @@ entity
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "2"
+        "visgroupid" "3"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -49928,8 +49928,8 @@ cameras
     }
     camera
     {
-        "position" "[-147.23610000 -76.83449000 327.63920000]"
-        "look" "[-146.39120000 -75.87728000 326.84830000]"
+        "position" "[13.39690000 178.09840000 348.66270000]"
+        "look" "[13.41390000 176.79200000 347.92320000]"
     }
 }
 cordon

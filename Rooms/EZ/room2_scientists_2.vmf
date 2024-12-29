@@ -21696,6 +21696,7 @@ world
         editor
         {
             "color" "0 151 128"
+            "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
             "parentid" "1"
@@ -22091,7 +22092,7 @@ entity
     "id" "48"
     "classname" "mesh"
     "angles" "-4.530487 -115.0838 87.88252"
-    "file" "lamp1.b3d"
+    "file" "lamp_b.b3d"
     "position" "-833.0685 6.263 273.9125"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -22158,13 +22159,13 @@ entity
     "classname" "mesh"
     "angles" "360 15.00001 270"
     "file" "boxfile.b3d"
-    "position" "-518 5.47852 398"
+    "position" "-477 5.47852 409"
     "scale" "2 3 3"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" "GFX\map\textures\rockmoss.jpg"
     "spawnflags" "0"
-    "origin" "-518.00000000 398.00000000 5.47852000"
+    "origin" "-477.00000000 409.00000000 5.47852000"
     editor
     {
         "color" "255 0 255"
@@ -22395,7 +22396,7 @@ entity
     "id" "297"
     "classname" "mesh"
     "angles" "360 -180 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-0.00004 332 -0.00006"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -22417,7 +22418,7 @@ entity
     "id" "298"
     "classname" "mesh"
     "angles" "360 180 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "0.00006 332 -511.99989"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -22439,7 +22440,7 @@ entity
     "id" "299"
     "classname" "mesh"
     "angles" "0 180 0"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "0 332 511.9999"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -22679,7 +22680,7 @@ entity
     "id" "362"
     "classname" "mesh"
     "angles" "360 -180 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "800 332 512"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -22701,7 +22702,7 @@ entity
     "id" "363"
     "classname" "mesh"
     "angles" "360 180 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "800 332 -512"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -22723,7 +22724,7 @@ entity
     "id" "364"
     "classname" "mesh"
     "angles" "360 -180 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "800 332 0"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -22883,7 +22884,7 @@ entity
     "id" "420"
     "classname" "mesh"
     "angles" "360 180 120.21633"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-640.64796 30.00847 124.00004"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -23242,7 +23243,7 @@ entity
 {
     "id" "522"
     "classname" "mesh"
-    "position" "-627.49162 32 727.29653"
+    "position" "-616 32 727"
     "file" "shelves_b.b3d"
     "angles" "360 -111.53657 270"
     "scale" "1.0 1.0 1.0"
@@ -23250,7 +23251,7 @@ entity
     "meshFX" "0"
     "textureOverwrite" "GFX\map\textures\rockmoss.jpg"
     "spawnflags" "0"
-    "origin" "-627.49162000 727.29653000 32.00000000"
+    "origin" "-616.00000000 727.00000000 32.00000000"
     editor
     {
         "color" "255 0 255"
@@ -23308,15 +23309,15 @@ entity
 {
     "id" "525"
     "classname" "mesh"
-    "position" "-606.75673 60.00001 249.24357"
+    "position" "-573 60.00001 316"
     "file" "table_a.b3d"
-    "angles" "450 16.96949 270"
+    "angles" "450 29.09035 270"
     "scale" "1.0 1.0 1.0"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" "GFX\map\textures\rockmoss.jpg"
     "spawnflags" "0"
-    "origin" "-606.75673000 249.24357000 60.00001000"
+    "origin" "-573.00000000 316.00000000 60.00001000"
     editor
     {
         "color" "255 0 255"
@@ -23866,7 +23867,7 @@ entity
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "2"
+        "visgroupid" "3"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -23882,7 +23883,7 @@ entity
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "2"
+        "visgroupid" "3"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -24036,7 +24037,7 @@ entity
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "3"
+        "visgroupid" "2"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -24091,8 +24092,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-680.99980000 188.09700000 193.35500000]"
-        "look" "[-750.03590000 232.92040000 143.94950000]"
+        "position" "[109.44060000 22.31703000 217.26480000]"
+        "look" "[104.68500000 -69.31949000 189.04570000]"
     }
 }
 cordon

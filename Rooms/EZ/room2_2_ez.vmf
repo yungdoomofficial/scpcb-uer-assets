@@ -15392,7 +15392,7 @@ entity
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "3"
+        "visgroupid" "2"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -15447,7 +15447,7 @@ entity
     "id" "103"
     "classname" "mesh"
     "angles" "359.99998 -110 360"
-    "file" "lamp1.b3d"
+    "file" "lamp_b.b3d"
     "position" "-954.2873 -72.00003 385.62313"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -15513,7 +15513,7 @@ entity
     "id" "112"
     "classname" "mesh"
     "angles" "-9.228816E-06 -84.99998 1.007149E-05"
-    "file" "lamp1.b3d"
+    "file" "lamp_b.b3d"
     "position" "-359.1415 -72.00003 -446.1808"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -15558,17 +15558,17 @@ entity
     "classname" "mesh"
     "angles" "360 0 360"
     "file" "keyboard.b3d"
-    "position" "-287.7206 -72.14286 93.16962"
+    "position" "-259.38083 -72.14286 91.98114"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-287.72060000 93.16962000 -72.14286000"
+    "origin" "-259.38083000 91.98114000 -72.14286000"
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "3"
+        "visgroupid" "2"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -15623,7 +15623,7 @@ entity
     "id" "120"
     "classname" "mesh"
     "angles" "-1.049056E-05 70.00002 7.345571E-06"
-    "file" "lamp1.b3d"
+    "file" "lamp_b.b3d"
     "position" "-195.7126 -72.00003 48.70233"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -15800,13 +15800,13 @@ entity
     "classname" "mesh"
     "angles" "360 100 360"
     "file" "mug.b3d"
-    "position" "-796.3491 -61.99999 -479.16147"
+    "position" "-857 -61.99999 -436"
     "scale" "7 7 7"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-796.34910000 -479.16147000 -61.99999000"
+    "origin" "-857.00000000 -436.00000000 -61.99999000"
     editor
     {
         "color" "255 0 255"
@@ -16042,13 +16042,13 @@ entity
     "classname" "mesh"
     "angles" "360 168.47169 360"
     "file" "mouse.b3d"
-    "position" "-351.00047 -72 88.99978"
+    "position" "-322.6607 -72 87.8113"
     "scale" "0.2 0.2 0.2"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-351.00047000 88.99978000 -72.00000000"
+    "origin" "-322.66070000 87.81130000 -72.00000000"
     editor
     {
         "color" "255 0 255"
@@ -16525,7 +16525,7 @@ entity
     "id" "744"
     "classname" "mesh"
     "angles" "359.99998 70.00002 360"
-    "file" "lamp1.b3d"
+    "file" "lamp_b.b3d"
     "position" "-800.0965 -72.00003 46.78895"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -16895,15 +16895,15 @@ entity
 {
     "id" "798"
     "classname" "mesh"
-    "angles" "360 -180 360"
-    "file" "lamp2.b3d"
-    "position" "-113 332 511.9999"
+    "angles" "360 180 360"
+    "file" "lamp_c.b3d"
+    "position" "-113.00006 346 511.9999"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-113.00000000 511.99990000 332.00000000"
+    "origin" "-113.00006000 511.99990000 346.00000000"
     editor
     {
         "color" "255 0 255"
@@ -16936,15 +16936,15 @@ entity
 {
     "id" "800"
     "classname" "mesh"
-    "angles" "360 180 360"
-    "file" "lamp2.b3d"
-    "position" "-113.00004 332 -0.00006"
+    "angles" "360 -180 360"
+    "file" "lamp_c.b3d"
+    "position" "-113.0001 346 -0.00006"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-113.00004000 -0.00006000 332.00000000"
+    "origin" "-113.00010000 -0.00006000 346.00000000"
     editor
     {
         "color" "255 0 255"
@@ -16977,15 +16977,15 @@ entity
 {
     "id" "802"
     "classname" "mesh"
-    "angles" "360 -180 360"
-    "file" "lamp2.b3d"
-    "position" "-112.99994 332 -511.99989"
+    "angles" "360 180 360"
+    "file" "lamp_c.b3d"
+    "position" "-113 346 -511.99989"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-112.99994000 -511.99989000 332.00000000"
+    "origin" "-113.00000000 -511.99989000 346.00000000"
     editor
     {
         "color" "255 0 255"
@@ -17037,15 +17037,15 @@ entity
 {
     "id" "918"
     "classname" "mesh"
-    "angles" "360 180 360"
-    "file" "lamp2.b3d"
-    "position" "-624.99994 332 -511.99989"
+    "angles" "360 -180 360"
+    "file" "lamp_c.b3d"
+    "position" "-625 346 -511.99989"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-624.99994000 -511.99989000 332.00000000"
+    "origin" "-625.00000000 -511.99989000 346.00000000"
     editor
     {
         "color" "255 0 255"
@@ -17078,15 +17078,15 @@ entity
 {
     "id" "920"
     "classname" "mesh"
-    "angles" "360 -180 360"
-    "file" "lamp2.b3d"
-    "position" "-625.00004 332 -0.00006"
+    "angles" "360 180 360"
+    "file" "lamp_c.b3d"
+    "position" "-625.0001 346 -0.00006"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-625.00004000 -0.00006000 332.00000000"
+    "origin" "-625.00010000 -0.00006000 346.00000000"
     editor
     {
         "color" "255 0 255"
@@ -17138,15 +17138,15 @@ entity
 {
     "id" "923"
     "classname" "mesh"
-    "angles" "360 180 360"
-    "file" "lamp2.b3d"
-    "position" "-625 332 511.9999"
+    "angles" "360 -180 360"
+    "file" "lamp_c.b3d"
+    "position" "-625.00006 346 511.9999"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-625.00000000 511.99990000 332.00000000"
+    "origin" "-625.00006000 511.99990000 346.00000000"
     editor
     {
         "color" "255 0 255"
@@ -17493,8 +17493,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-392.25650000 504.41200000 -9.26974400]"
-        "look" "[-309.27080000 467.85860000 -40.78479000]"
+        "position" "[-33.21556000 164.22110000 331.96630000]"
+        "look" "[-26.58981000 69.68742000 316.62380000]"
     }
 }
 cordon

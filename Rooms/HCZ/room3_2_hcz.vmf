@@ -23095,7 +23095,7 @@ entity
     "id" "36"
     "classname" "mesh"
     "angles" "0 0 0"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "0 652 -0.00003"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -23180,7 +23180,7 @@ entity
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "2"
+        "visgroupid" "3"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -23191,7 +23191,7 @@ entity
     "id" "719"
     "classname" "mesh"
     "angles" "360 0 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "539 380.3763 0"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -23232,7 +23232,7 @@ entity
     "id" "979"
     "classname" "mesh"
     "angles" "360 -180 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "-539 380.3763 0"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -23273,7 +23273,7 @@ entity
     "id" "1109"
     "classname" "mesh"
     "angles" "360 -90 360"
-    "file" "lamp2.b3d"
+    "file" "lamp_c.b3d"
     "position" "0 380.3763 -539"
     "scale" "1 1 1"
     "hasCollision" "No"
@@ -23319,7 +23319,7 @@ entity
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "2"
+        "visgroupid" "3"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -23335,7 +23335,7 @@ entity
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "2"
+        "visgroupid" "3"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -23351,7 +23351,7 @@ entity
     editor
     {
         "color" "255 0 255"
-        "visgroupid" "2"
+        "visgroupid" "3"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
         "parentid" "1"
@@ -23362,8 +23362,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[275.12290000 149.69350000 535.28090000]"
-        "look" "[187.16080000 124.28230000 425.29440000]"
+        "position" "[13.23154000 -140.34520000 551.54320000]"
+        "look" "[10.79624000 -171.17810000 411.81670000]"
     }
 }
 cordon
