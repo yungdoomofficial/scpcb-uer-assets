@@ -24087,13 +24087,57 @@ entity
         "parentid" "1"
     }
 }
+entity
+{
+    "id" "669"
+    "classname" "mesh"
+    "angles" "360 0 360"
+    "file" "printer.b3d"
+    "position" "1012 120 396"
+    "scale" "1 1 1"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "1012.00000000 396.00000000 120.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "670"
+    "classname" "mesh"
+    "angles" "360 -20.58817 360"
+    "file" "printer.b3d"
+    "position" "-877 0 574"
+    "scale" "1 1 1"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" "GFX\map\textures\rockmoss.jpg"
+    "spawnflags" "0"
+    "origin" "-877.00000000 574.00000000 0.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
 cameras
 {
     "activecamera" "0"
     camera
     {
-        "position" "[109.44060000 22.31703000 217.26480000]"
-        "look" "[104.68500000 -69.31949000 189.04570000]"
+        "position" "[-651.06200000 22.66057000 181.09450000]"
+        "look" "[-677.86920000 -67.15833000 160.35330000]"
     }
 }
 cordon
