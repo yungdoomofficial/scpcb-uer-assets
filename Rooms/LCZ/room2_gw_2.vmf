@@ -56524,13 +56524,36 @@ entity
         "parentid" "1"
     }
 }
+entity
+{
+    "id" "521"
+    "classname" "mesh"
+    "angles" "360 90 360"
+    "file" "buttonkeycard.b3d"
+    "position" "-441 176 -135"
+    "scale" "8 8 5"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" "GFX\Map\Textures\keypad_locked.png"
+    "spawnflags" "0"
+    "origin" "-441.00000000 -135.00000000 176.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "3"
+        "visgroupid" "8"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
 cameras
 {
     "activecamera" "0"
     camera
     {
-        "position" "[-118.67670000 73.53082000 265.82530000]"
-        "look" "[-118.12140000 53.91608000 261.95810000]"
+        "position" "[-580.37940000 -36.34822000 211.35420000]"
+        "look" "[-586.14970000 -55.02020000 207.10430000]"
     }
 }
 cordon

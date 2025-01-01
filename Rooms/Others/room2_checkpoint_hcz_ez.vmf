@@ -48700,15 +48700,15 @@ entity
 {
     "id" "412"
     "classname" "mesh"
-    "angles" "360 180 360"
-    "file" "door01.b3d"
-    "position" "1016.1956 -4.0249 661.42385"
-    "scale" "18 13.5 10"
+    "angles" "360 -180 360"
+    "file" "heavydoor1.b3d"
+    "position" "1019 -4.0249 671"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "1016.19560000 661.42385000 -4.02490000"
+    "origin" "1019.00000000 671.00000000 -4.02490000"
     editor
     {
         "color" "255 0 255"
@@ -48902,13 +48902,81 @@ entity
         "parentid" "1"
     }
 }
+entity
+{
+    "id" "481"
+    "classname" "mesh"
+    "angles" "360 0 360"
+    "file" "buttonkeycard.b3d"
+    "position" "1160 176 644"
+    "scale" "8 8 5"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "1160.00000000 644.00000000 176.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "3"
+        "visgroupid" "8"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "482"
+    "classname" "mesh"
+    "angles" "360 -180 360"
+    "file" "buttonkeycard.b3d"
+    "position" "872 176 -644"
+    "scale" "8 8 5"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "872.00000000 -644.00000000 176.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "3"
+        "visgroupid" "8"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "483"
+    "classname" "mesh"
+    "angles" "360 0 360"
+    "file" "heavydoor2.b3d"
+    "position" "1013 -4.0249 671"
+    "scale" "1 1 1"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "1013.00000000 671.00000000 -4.02490000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
 cameras
 {
     "activecamera" "0"
     camera
     {
-        "position" "[-57.71774000 625.19680000 534.67210000]"
-        "look" "[-54.06291000 539.70750000 491.14810000]"
+        "position" "[978.17430000 465.30300000 246.51860000]"
+        "look" "[986.36550000 557.35850000 220.54140000]"
     }
 }
 cordon

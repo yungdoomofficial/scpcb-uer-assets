@@ -79389,13 +79389,151 @@ entity
         "parentid" "1"
     }
 }
+entity
+{
+    "id" "2091"
+    "classname" "mesh"
+    "angles" "360 -180 360"
+    "file" "buttonkeycard.b3d"
+    "position" "-1399 -432 598"
+    "scale" "8 8 5"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" "GFX\Map\Textures\keypad_locked.png"
+    "spawnflags" "0"
+    "origin" "-1399.00000000 598.00000000 -432.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "3"
+        "visgroupid" "8"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "2092"
+    "classname" "mesh"
+    "angles" "360 0 360"
+    "file" "buttonkeycard.b3d"
+    "position" "-1089 -432 542"
+    "scale" "8 8 5"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" "GFX\Map\Textures\keypad_locked.png"
+    "spawnflags" "0"
+    "origin" "-1089.00000000 542.00000000 -432.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "3"
+        "visgroupid" "8"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "2093"
+    "classname" "mesh"
+    "angles" "360 90 360"
+    "file" "buttonkeycard.b3d"
+    "position" "-704 -432 1113"
+    "scale" "8 8 5"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" "GFX\Map\Textures\keypad_locked.png"
+    "spawnflags" "0"
+    "origin" "-704.00000000 1113.00000000 -432.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "3"
+        "visgroupid" "8"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "2094"
+    "classname" "mesh"
+    "angles" "360 -90 360"
+    "file" "buttonkeycard.b3d"
+    "position" "-760 -432 797"
+    "scale" "8 8 5"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" "GFX\Map\Textures\keypad_locked.png"
+    "spawnflags" "0"
+    "origin" "-760.00000000 797.00000000 -432.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "3"
+        "visgroupid" "8"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "2095"
+    "classname" "mesh"
+    "angles" "360 90 360"
+    "file" "buttonkeycard.b3d"
+    "position" "-244 176 -608"
+    "scale" "8 8 5"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" "GFX\Map\Textures\keypad_locked.png"
+    "spawnflags" "0"
+    "origin" "-244.00000000 -608.00000000 176.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "3"
+        "visgroupid" "8"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "2096"
+    "classname" "mesh"
+    "angles" "360 -90 360"
+    "file" "buttonkeycard.b3d"
+    "position" "-300 176 -928"
+    "scale" "8 8 5"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" "GFX\Map\Textures\keypad_locked.png"
+    "spawnflags" "0"
+    "origin" "-300.00000000 -928.00000000 176.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "3"
+        "visgroupid" "8"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
 cameras
 {
     "activecamera" "0"
     camera
     {
-        "position" "[-445.10270000 640.98750000 -255.03690000]"
-        "look" "[-450.53430000 554.00030000 -214.79370000]"
+        "position" "[-412.42070000 -811.21860000 264.34030000]"
+        "look" "[-324.02790000 -829.16550000 231.46980000]"
     }
 }
 cordon

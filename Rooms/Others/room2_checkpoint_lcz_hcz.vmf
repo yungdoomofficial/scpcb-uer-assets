@@ -48731,28 +48731,6 @@ entity
 }
 entity
 {
-    "id" "955"
-    "classname" "mesh"
-    "angles" "360 0 360"
-    "file" "door01.b3d"
-    "position" "1016 -4.0249 -662"
-    "scale" "18 13.5 10"
-    "hasCollision" "No"
-    "meshFX" "0"
-    "textureOverwrite" ""
-    "spawnflags" "0"
-    "origin" "1016.00000000 -662.00000000 -4.02490000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "4"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
     "id" "956"
     "classname" "mesh"
     "angles" "360 180 360"
@@ -49059,13 +49037,103 @@ entity
         "parentid" "1"
     }
 }
+entity
+{
+    "id" "1117"
+    "classname" "mesh"
+    "angles" "360 0 360"
+    "file" "buttonkeycard.b3d"
+    "position" "1160 176 644"
+    "scale" "8 8 5"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "1160.00000000 644.00000000 176.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "3"
+        "visgroupid" "8"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "1118"
+    "classname" "mesh"
+    "angles" "360 180 360"
+    "file" "buttonkeycard.b3d"
+    "position" "872 176 -643"
+    "scale" "8 8 5"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "872.00000000 -643.00000000 176.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "3"
+        "visgroupid" "8"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "1119"
+    "classname" "mesh"
+    "angles" "360 180 360"
+    "file" "heavydoor1.b3d"
+    "position" "1019 -4.0249 -671"
+    "scale" "1 1 1"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "1019.00000000 -671.00000000 -4.02490000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "1120"
+    "classname" "mesh"
+    "angles" "360 0 360"
+    "file" "heavydoor2.b3d"
+    "position" "1013 -4.0249 -671"
+    "scale" "1 1 1"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "1013.00000000 -671.00000000 -4.02490000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
 cameras
 {
     "activecamera" "0"
     camera
     {
-        "position" "[-376.72740000 410.07350000 473.92310000]"
-        "look" "[-362.28630000 338.60340000 411.47090000]"
+        "position" "[930.98410000 -770.55710000 248.94120000]"
+        "look" "[994.60790000 -719.26200000 198.56600000]"
     }
 }
 cordon
