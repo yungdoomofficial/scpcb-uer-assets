@@ -47165,28 +47165,6 @@ entity
 }
 entity
 {
-    "id" "595"
-    "classname" "mesh"
-    "angles" "360 0 360"
-    "file" "garbage_bin"
-    "position" "767 0 962"
-    "scale" "1 1 1"
-    "hasCollision" "Yes"
-    "meshFX" "0"
-    "textureOverwrite" ""
-    "spawnflags" "0"
-    "origin" "767.00000000 962.00000000 0.00000000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "2"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
     "id" "596"
     "classname" "waypoint"
     "position" "0 31.99984 -640"
@@ -47244,8 +47222,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[6.57901500 104.93350000 406.62230000]"
-        "look" "[2.89837700 18.34180000 365.32940000]"
+        "position" "[771.63830000 582.66430000 262.75160000]"
+        "look" "[763.71020000 669.88540000 223.42740000]"
     }
 }
 cordon
