@@ -6083,7 +6083,7 @@ entity
     "id" "191"
     "classname" "mesh"
     "position" "185 0 -953"
-    "file" "garbage_bin.b3d"
+    "file" "garbage_bin"
     "angles" "0 180 0"
     "scale" "1 1 1"
     "hasCollision" "Yes"
@@ -6127,7 +6127,7 @@ entity
     "id" "193"
     "classname" "mesh"
     "angles" "0 0 0"
-    "file" "bench.b3d"
+    "file" "bench"
     "position" "-282 0 -953"
     "scale" "1 1 1"
     "hasCollision" "Yes"
@@ -6606,13 +6606,33 @@ entity
         "parentid" "1"
     }
 }
+entity
+{
+    "id" "232"
+    "classname" "light"
+    "color" "255 255 255"
+    "intensity" "0.6"
+    "linearfalloff" "1"
+    "position" "0 372 -768"
+    "range" "600"
+    "spawnflags" "0"
+    "origin" "0.00000000 -768.00000000 372.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
 cameras
 {
     "activecamera" "0"
     camera
     {
-        "position" "[-405.99500000 -194.82650000 238.62850000]"
-        "look" "[-383.78490000 -101.49380000 235.21390000]"
+        "position" "[-283.05730000 -859.27810000 131.12820000]"
+        "look" "[-206.03880000 -806.76650000 154.07640000]"
     }
 }
 cordon

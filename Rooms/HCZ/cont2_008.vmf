@@ -98177,13 +98177,13 @@ entity
     "classname" "mesh"
     "angles" "360 159.29545 360"
     "file" "marker.b3d"
-    "position" "-939.99998 -4896 616.00003"
+    "position" "-939.99998 -4902 616.00003"
     "scale" "6 6 6"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" "GFX\Map\Textures\marker_yellow.png"
     "spawnflags" "0"
-    "origin" "-939.99998000 616.00003000 -4896.00000000"
+    "origin" "-939.99998000 616.00003000 -4902.00000000"
     editor
     {
         "color" "255 0 255"
@@ -98389,8 +98389,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-443.69530000 -1157.96800000 -4685.60100000]"
-        "look" "[-519.53530000 -1114.56500000 -4725.34700000]"
+        "position" "[-760.40290000 282.38230000 -4869.45300000]"
+        "look" "[-773.98460000 377.10520000 -4877.09300000]"
     }
 }
 cordon
