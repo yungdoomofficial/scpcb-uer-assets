@@ -16392,13 +16392,13 @@ entity
     "classname" "mesh"
     "angles" "359.06639 33.14432 358.57062"
     "file" "ventilation_grate"
-    "position" "170.4905 2.20856 -27.65587"
+    "position" "205 2.20856 6"
     "scale" "1 1 1"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "170.49050000 -27.65587000 2.20856000"
+    "origin" "205.00000000 6.00000000 2.20856000"
     editor
     {
         "color" "255 0 255"
@@ -16487,8 +16487,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[10.90025000 -335.78550000 376.38840000]"
-        "look" "[14.44936000 -423.64620000 337.86620000]"
+        "position" "[-51.63144000 303.61880000 259.13750000]"
+        "look" "[-32.98328000 238.16390000 191.43260000]"
     }
 }
 cordon
