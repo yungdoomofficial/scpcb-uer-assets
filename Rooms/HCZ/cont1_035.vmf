@@ -64290,13 +64290,13 @@ entity
     "classname" "mesh"
     "angles" "360 90 360"
     "file" "cabinet_a"
-    "position" "685.48589 0 118.51515"
+    "position" "684 0 131"
     "scale" "4 4 4"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "685.48589000 118.51515000 0.00000000"
+    "origin" "684.00000000 131.00000000 0.00000000"
     editor
     {
         "color" "255 0 255"
@@ -64374,15 +64374,15 @@ entity
 {
     "id" "667"
     "classname" "mesh"
-    "angles" "359.99998 -153.83974 360"
+    "angles" "359.99998 -149.34343 360"
     "file" "officeseat_a"
-    "position" "381.57143 0 19.46547"
+    "position" "397.63854 0 19.46546"
     "scale" "1 1 1"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "381.57143000 19.46547000 0.00000000"
+    "origin" "397.63854000 19.46546000 0.00000000"
     editor
     {
         "color" "255 0 255"
@@ -64398,13 +64398,13 @@ entity
     "classname" "mesh"
     "angles" "360 90 360"
     "file" "cabinet_b"
-    "position" "686.55968 0 -434.69574"
+    "position" "682 0 -431"
     "scale" "4 4 4"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "686.55968000 -434.69574000 0.00000000"
+    "origin" "682.00000000 -431.00000000 0.00000000"
     editor
     {
         "color" "255 0 255"
@@ -64698,27 +64698,11 @@ entity
 }
 entity
 {
-    "id" "882"
-    "classname" "waypoint"
-    "position" "384 32 -144"
-    "spawnflags" "0"
-    "origin" "384.00000000 -144.00000000 32.00000000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "2"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
     "id" "883"
     "classname" "waypoint"
-    "position" "512 32 -144"
+    "position" "511.99997 32 -180.5"
     "spawnflags" "0"
-    "origin" "512.00000000 -144.00000000 32.00000000"
+    "origin" "511.99997000 -180.50000000 32.00000000"
     editor
     {
         "color" "255 0 255"
@@ -64898,13 +64882,13 @@ entity
     "classname" "mesh"
     "angles" "360 -90 360"
     "file" "table_a"
-    "position" "686 0 -80"
+    "position" "686 0 -68"
     "scale" "1 1 1"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "686.00000000 -80.00000000 0.00000000"
+    "origin" "686.00000000 -68.00000000 0.00000000"
     editor
     {
         "color" "255 0 255"
@@ -65117,8 +65101,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[420.96600000 45.97880000 224.69500000]"
-        "look" "[421.27730000 48.01854000 222.51670000]"
+        "position" "[543.60090000 -296.99880000 286.62790000]"
+        "look" "[543.98400000 -294.68860000 284.75220000]"
     }
 }
 cordon

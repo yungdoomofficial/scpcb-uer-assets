@@ -18520,13 +18520,13 @@ entity
     "classname" "mesh"
     "angles" "360 -135.77444 360"
     "file" "garbage_bin.b3d"
-    "position" "342.20562 0 -340.41129"
+    "position" "337 0 -332"
     "scale" "1 1 1"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "342.20562000 -340.41129000 0.00000000"
+    "origin" "337.00000000 -332.00000000 0.00000000"
     editor
     {
         "color" "255 0 255"
@@ -19115,8 +19115,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[487.44590000 -557.66000000 336.41870000]"
-        "look" "[575.76610000 -553.70490000 298.99700000]"
+        "position" "[522.91000000 -161.42290000 305.18970000]"
+        "look" "[478.79350000 -221.66490000 244.84800000]"
     }
 }
 cordon
