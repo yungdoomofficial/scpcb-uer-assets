@@ -42732,8 +42732,8 @@ world
             "id" "7034"
             "plane" "(-823.00000000 -543.00000000 302.10853674) (-823.00000000 -576.00011421 302.10853674) (-823.00000000 -576.00011421 269.10889797)"
             "material" "tooltextures/remove_face"
-            "uaxis" "[0.00000000 -1.00000000 0.00000000 445.9998681006959077470000000] 1"
-            "vaxis" "[0.00000000 0.00000000 -1.00000000 924.10876000000000000] 1"
+            "uaxis" "[0.00000000 -1.00000000 0.00000000 29.9998681006959077470000000] 1"
+            "vaxis" "[0.00000000 0.00000000 -1.00000000 28.10876000000000000] 1"
             "rotation" "0"
             vertex
             {
@@ -43042,9 +43042,9 @@ entity
 {
     "id" "518"
     "classname" "waypoint"
-    "position" "0 32 -230"
+    "position" "0 32 -256"
     "spawnflags" "0"
-    "origin" "0.00000000 -230.00000000 32.00000000"
+    "origin" "0.00000000 -256.00000000 32.00000000"
     editor
     {
         "color" "255 0 255"
@@ -43058,25 +43058,9 @@ entity
 {
     "id" "519"
     "classname" "waypoint"
-    "position" "0 32 230"
+    "position" "0 32 256"
     "spawnflags" "0"
-    "origin" "0.00000000 230.00000000 32.00000000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "2"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
-    "id" "520"
-    "classname" "waypoint"
-    "position" "0 32 576"
-    "spawnflags" "0"
-    "origin" "0.00000000 576.00000000 32.00000000"
+    "origin" "0.00000000 256.00000000 32.00000000"
     editor
     {
         "color" "255 0 255"
@@ -43576,9 +43560,9 @@ entity
 {
     "id" "1060"
     "classname" "waypoint"
-    "position" "-534.12545 32 576"
+    "position" "-635 32 486.1246"
     "spawnflags" "0"
-    "origin" "-534.12545000 576.00000000 32.00000000"
+    "origin" "-635.00000000 486.12460000 32.00000000"
     editor
     {
         "color" "255 0 255"
@@ -43646,13 +43630,29 @@ entity
         "parentid" "1"
     }
 }
+entity
+{
+    "id" "1073"
+    "classname" "waypoint"
+    "position" "-635 32 -550"
+    "spawnflags" "0"
+    "origin" "-635.00000000 -550.00000000 32.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
 cameras
 {
     "activecamera" "0"
     camera
     {
-        "position" "[-634.98880000 -660.04840000 310.61590000]"
-        "look" "[-711.04640000 -605.81770000 288.46370000]"
+        "position" "[52.00999000 688.68820000 586.25460000]"
+        "look" "[10.44838000 693.92070000 499.87340000]"
     }
 }
 cordon
