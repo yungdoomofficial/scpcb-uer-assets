@@ -36682,22 +36682,6 @@ entity
 }
 entity
 {
-    "id" "489"
-    "classname" "waypoint"
-    "position" "-1216 -352 0"
-    "spawnflags" "0"
-    "origin" "-1216.00000000 0.00000000 -352.00000000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "1"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
     "id" "495"
     "classname" "mesh"
     "file" "monitor.b3d"
@@ -38262,38 +38246,6 @@ entity
 }
 entity
 {
-    "id" "662"
-    "classname" "waypoint"
-    "position" "-680 -352 -576"
-    "spawnflags" "0"
-    "origin" "-680.00000000 -576.00000000 -352.00000000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "1"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
-    "id" "663"
-    "classname" "waypoint"
-    "position" "-680 -352 576"
-    "spawnflags" "0"
-    "origin" "-680.00000000 576.00000000 -352.00000000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "1"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
     "id" "671"
     "classname" "mesh"
     "angles" "360 0 450"
@@ -39065,38 +39017,6 @@ entity
     "range" "500"
     "spawnflags" "0"
     "origin" "-108.00000000 312.00000000 -44.00006000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "1"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
-    "id" "990"
-    "classname" "waypoint"
-    "position" "150 -352 -470"
-    "spawnflags" "0"
-    "origin" "150.00000000 -470.00000000 -352.00000000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "1"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
-    "id" "992"
-    "classname" "waypoint"
-    "position" "150 -352 470"
-    "spawnflags" "0"
-    "origin" "150.00000000 470.00000000 -352.00000000"
     editor
     {
         "color" "255 0 255"
@@ -40180,8 +40100,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[605.98920000 423.62530000 -114.85500000]"
-        "look" "[621.41850000 343.12400000 -164.84930000]"
+        "position" "[909.29770000 33.56044000 77.09390000]"
+        "look" "[836.36500000 36.09999000 14.70541000]"
     }
 }
 cordon

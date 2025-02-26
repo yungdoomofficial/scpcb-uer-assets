@@ -30140,69 +30140,119 @@ world
             "parentid" "1"
         }
     }
-}
-entity
-{
-    "id" "119"
-    "classname" "waypoint"
-    "position" "0 32 732"
-    "spawnflags" "0"
-    "origin" "0.00000000 732.00000000 32.00000000"
-    editor
+    solid
     {
-        "color" "255 0 255"
-        "visgroupid" "2"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
-    "id" "120"
-    "classname" "waypoint"
-    "position" "0 32 230"
-    "spawnflags" "0"
-    "origin" "0.00000000 230.00000000 32.00000000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "2"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
-    "id" "121"
-    "classname" "waypoint"
-    "position" "0 32 -230"
-    "spawnflags" "0"
-    "origin" "0.00000000 -230.00000000 32.00000000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "2"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
-    "id" "122"
-    "classname" "waypoint"
-    "position" "0 32 -732"
-    "spawnflags" "0"
-    "origin" "0.00000000 -732.00000000 32.00000000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "2"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
+        "id" "500"
+        side
+        {
+            "id" "2591"
+            "plane" "(-288.00000003 672.00000000 0.00000000) (-288.00000002 480.00015186 0.00000000) (-288.00000002 480.00015186 320.00004482)"
+            "material" "tooltextures/block_light"
+            "uaxis" "[0.00000000 1.00000000 0.00000000 6.7773974402718788692053618] 0.355"
+            "vaxis" "[0.00000000 0.00000000 -1.00000000 21.521126760563380281690140845] 0.355"
+            "rotation" "0"
+            vertex
+            {
+                "count" "4"
+                "vertex0" "-288.00000003 672.00000000 0.00000000"
+                "vertex1" "-288.00000002 480.00015186 0.00000000"
+                "vertex2" "-288.00000002 480.00015186 320.00004482"
+                "vertex3" "-288.00000003 672.00000000 320.00004482"
+            }
+        }
+        side
+        {
+            "id" "2592"
+            "plane" "(-288.00000003 672.00000000 0.00000000) (-289.00000000 671.99999999 0.00000000) (-288.99999999 480.00015186 0.00000000)"
+            "material" "tooltextures/remove_face"
+            "uaxis" "[0.00000000 1.00000000 0.00000000 6.7773974402718788692053618] 0.355"
+            "vaxis" "[1.00000000 0.00000001 0.00000000 5.2955072596163523227323432] 0.355"
+            "rotation" "0"
+            vertex
+            {
+                "count" "4"
+                "vertex0" "-288.00000003 672.00000000 0.00000000"
+                "vertex1" "-289.00000000 671.99999999 0.00000000"
+                "vertex2" "-288.99999999 480.00015186 0.00000000"
+                "vertex3" "-288.00000002 480.00015186 0.00000000"
+            }
+        }
+        side
+        {
+            "id" "2593"
+            "plane" "(-288.00000002 480.00015186 0.00000000) (-288.99999999 480.00015186 0.00000000) (-288.99999999 480.00015186 320.00004482)"
+            "material" "tooltextures/remove_face"
+            "uaxis" "[-1.00000000 -0.00000001 0.00000000 16.2256194608464847224223219] 0.355"
+            "vaxis" "[0.00000000 0.00000000 -1.00000000 21.521126760563380281690140845] 0.355"
+            "rotation" "0"
+            vertex
+            {
+                "count" "4"
+                "vertex0" "-288.00000002 480.00015186 0.00000000"
+                "vertex1" "-288.99999999 480.00015186 0.00000000"
+                "vertex2" "-288.99999999 480.00015186 320.00004482"
+                "vertex3" "-288.00000002 480.00015186 320.00004482"
+            }
+        }
+        side
+        {
+            "id" "2594"
+            "plane" "(-289.00000000 671.99999999 320.00004482) (-288.00000003 672.00000000 320.00004482) (-288.00000002 480.00015186 320.00004482)"
+            "material" "tooltextures/remove_face"
+            "uaxis" "[0.00000000 1.00000000 0.00000000 6.7773974403765673980376494] 0.355"
+            "vaxis" "[1.00000000 0.00000001 0.00000000 5.2508883906322010218054806] 0.355"
+            "rotation" "0"
+            vertex
+            {
+                "count" "4"
+                "vertex0" "-289.00000000 671.99999999 320.00004482"
+                "vertex1" "-288.00000003 672.00000000 320.00004482"
+                "vertex2" "-288.00000002 480.00015186 320.00004482"
+                "vertex3" "-288.99999999 480.00015186 320.00004482"
+            }
+        }
+        side
+        {
+            "id" "2595"
+            "plane" "(-288.00000003 672.00000000 0.00000000) (-288.00000003 672.00000000 320.00004482) (-289.00000000 671.99999999 320.00004482)"
+            "material" "tooltextures/remove_face"
+            "uaxis" "[-1.00000000 -0.00000001 0.00000000 16.2256409313998975935718808] 0.35500"
+            "vaxis" "[0.00000000 0.00000000 -1.00000000 0.000000000000] 0.35500"
+            "rotation" "0"
+            vertex
+            {
+                "count" "4"
+                "vertex0" "-288.00000003 672.00000000 0.00000000"
+                "vertex1" "-288.00000003 672.00000000 320.00004482"
+                "vertex2" "-289.00000000 671.99999999 320.00004482"
+                "vertex3" "-289.00000000 671.99999999 0.00000000"
+            }
+        }
+        side
+        {
+            "id" "2596"
+            "plane" "(-289.00000000 671.99999999 320.00004482) (-288.99999999 480.00015186 320.00004482) (-288.99999999 480.00015186 0.00000000)"
+            "material" "tooltextures/block_light"
+            "uaxis" "[0.00000000 1.00000000 0.00000000 30.0919521826673628526067310] 0.5"
+            "vaxis" "[0.00000000 0.00000000 -1.00000000 1.25313439155624207626379827] 0.5"
+            "rotation" "0"
+            vertex
+            {
+                "count" "4"
+                "vertex0" "-289.00000000 671.99999999 320.00004482"
+                "vertex1" "-288.99999999 480.00015186 320.00004482"
+                "vertex2" "-288.99999999 480.00015186 0.00000000"
+                "vertex3" "-289.00000000 671.99999999 0.00000000"
+            }
+        }
+        editor
+        {
+            "color" "0 192 187"
+            "visgroupid" "4"
+            "visgroupshown" "1"
+            "visgroupautoshown" "1"
+            "parentid" "1"
+        }
     }
 }
 entity
@@ -30775,38 +30825,6 @@ entity
 }
 entity
 {
-    "id" "405"
-    "classname" "waypoint"
-    "position" "-534.12545 32 576"
-    "spawnflags" "0"
-    "origin" "-534.12545000 576.00000000 32.00000000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "2"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
-    "id" "406"
-    "classname" "waypoint"
-    "position" "0 32 576"
-    "spawnflags" "0"
-    "origin" "0.00000000 576.00000000 32.00000000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "2"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
     "id" "480"
     "classname" "mesh"
     "angles" "360 -88.91498 360"
@@ -30869,13 +30887,109 @@ entity
         "parentid" "1"
     }
 }
+entity
+{
+    "id" "494"
+    "classname" "waypoint"
+    "position" "-635 32 373.56188"
+    "spawnflags" "0"
+    "origin" "-635.00000000 373.56188000 32.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "495"
+    "classname" "waypoint"
+    "position" "-635 32 -550"
+    "spawnflags" "0"
+    "origin" "-635.00000000 -550.00000000 32.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "496"
+    "classname" "waypoint"
+    "position" "0 32 732"
+    "spawnflags" "0"
+    "origin" "0.00000000 732.00000000 32.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "497"
+    "classname" "waypoint"
+    "position" "0 32 256"
+    "spawnflags" "0"
+    "origin" "0.00000000 256.00000000 32.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "498"
+    "classname" "waypoint"
+    "position" "0 32 -256"
+    "spawnflags" "0"
+    "origin" "0.00000000 -256.00000000 32.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "499"
+    "classname" "waypoint"
+    "position" "0 32 -732"
+    "spawnflags" "0"
+    "origin" "0.00000000 -732.00000000 32.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
 cameras
 {
     "activecamera" "0"
     camera
     {
-        "position" "[-593.89610000 -541.77120000 326.80850000]"
-        "look" "[-686.93950000 -543.72830000 303.24450000]"
+        "position" "[97.59597000 645.36810000 388.92950000]"
+        "look" "[19.91996000 670.07700000 338.21390000]"
     }
 }
 cordon

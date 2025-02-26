@@ -31728,22 +31728,6 @@ entity
 }
 entity
 {
-    "id" "610"
-    "classname" "waypoint"
-    "position" "0 32 0"
-    "spawnflags" "0"
-    "origin" "0.00000000 0.00000000 32.00000000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "3"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
     "id" "634"
     "classname" "mesh"
     "angles" "0 -90 0"
@@ -31921,8 +31905,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[53.03251000 -359.93250000 335.97940000]"
-        "look" "[52.90383000 -357.48210000 334.25510000]"
+        "position" "[109.30970000 107.25780000 673.57070000]"
+        "look" "[109.14280000 106.09470000 670.81150000]"
     }
 }
 cordon

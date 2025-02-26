@@ -15213,13 +15213,13 @@ entity
     "classname" "mesh"
     "angles" "359.99999 -170 360"
     "file" "officeseat_a"
-    "position" "644 0 188"
+    "position" "699 0 147"
     "scale" "1 1 1"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "644.00000000 188.00000000 0.00000000"
+    "origin" "699.00000000 147.00000000 0.00000000"
     editor
     {
         "color" "255 0 255"
@@ -15541,9 +15541,9 @@ entity
 {
     "id" "738"
     "classname" "waypoint"
-    "position" "620 64 -768"
+    "position" "619.99992 32 -738"
     "spawnflags" "0"
-    "origin" "620.00000000 -768.00000000 64.00000000"
+    "origin" "619.99992000 -738.00000000 32.00000000"
     editor
     {
         "color" "255 0 255"
@@ -18116,8 +18116,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[868.79020000 719.70480000 219.97490000]"
-        "look" "[881.10080000 814.72160000 213.94560000]"
+        "position" "[782.79530000 -771.84870000 48.26025000]"
+        "look" "[689.00840000 -751.71550000 52.10297000]"
     }
 }
 cordon

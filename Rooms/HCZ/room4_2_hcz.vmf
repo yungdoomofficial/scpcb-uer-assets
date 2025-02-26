@@ -30450,22 +30450,6 @@ entity
 }
 entity
 {
-    "id" "262"
-    "classname" "waypoint"
-    "position" "0.00006 35.99999 -0.00003"
-    "spawnflags" "0"
-    "origin" "0.00006000 -0.00003000 35.99999000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "3"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
     "id" "470"
     "classname" "soundemitter"
     "position" "592 440 179"
@@ -30668,9 +30652,9 @@ entity
 {
     "id" "1385"
     "classname" "waypoint"
-    "position" "0 31.99984 -640"
+    "position" "0 31.99984 -384"
     "spawnflags" "0"
-    "origin" "0.00000000 -640.00000000 31.99984000"
+    "origin" "0.00000000 -384.00000000 31.99984000"
     editor
     {
         "color" "255 0 255"
@@ -30684,9 +30668,9 @@ entity
 {
     "id" "1386"
     "classname" "waypoint"
-    "position" "0 31.99984 640"
+    "position" "0 31.99984 384"
     "spawnflags" "0"
-    "origin" "0.00000000 640.00000000 31.99984000"
+    "origin" "0.00000000 384.00000000 31.99984000"
     editor
     {
         "color" "255 0 255"
@@ -30700,9 +30684,9 @@ entity
 {
     "id" "1387"
     "classname" "waypoint"
-    "position" "-640 36 0"
+    "position" "-384 36 0"
     "spawnflags" "0"
-    "origin" "-640.00000000 0.00000000 36.00000000"
+    "origin" "-384.00000000 0.00000000 36.00000000"
     editor
     {
         "color" "255 0 255"
@@ -30716,9 +30700,9 @@ entity
 {
     "id" "1388"
     "classname" "waypoint"
-    "position" "640 36 0"
+    "position" "384 36 0"
     "spawnflags" "0"
-    "origin" "640.00000000 0.00000000 36.00000000"
+    "origin" "384.00000000 0.00000000 36.00000000"
     editor
     {
         "color" "255 0 255"
@@ -30733,8 +30717,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[171.64210000 63.74653000 345.44900000]"
-        "look" "[45.55635000 36.29276000 283.57220000]"
+        "position" "[110.37450000 151.99940000 515.83110000]"
+        "look" "[91.18248000 100.10300000 383.85190000]"
     }
 }
 cordon

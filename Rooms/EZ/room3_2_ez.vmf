@@ -46575,23 +46575,6 @@ entity
 }
 entity
 {
-    "id" "682"
-    "classname" "waypoint"
-    "intensity" "1.0"
-    "position" "0.00006 32 -854.00046"
-    "spawnflags" "0"
-    "origin" "0.00006000 -854.00046000 32.00000000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "2"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
     "id" "693"
     "classname" "light"
     "color" "200 200 255"
@@ -46673,23 +46656,6 @@ entity
 }
 entity
 {
-    "id" "758"
-    "classname" "waypoint"
-    "intensity" "1.0"
-    "position" "-252.50002 -238.56262 883.99962"
-    "spawnflags" "0"
-    "origin" "-252.50002000 883.99962000 -238.56262000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "2"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
     "id" "759"
     "classname" "waypoint"
     "intensity" "1.0"
@@ -46727,9 +46693,9 @@ entity
     "id" "763"
     "classname" "waypoint"
     "intensity" "1.0"
-    "position" "-918 -572 480.62519"
+    "position" "-918.00006 -572 905"
     "spawnflags" "0"
-    "origin" "-918.00000000 480.62519000 -572.00000000"
+    "origin" "-918.00006000 905.00000000 -572.00000000"
     editor
     {
         "color" "255 0 255"
@@ -46773,13 +46739,30 @@ entity
         "parentid" "1"
     }
 }
+entity
+{
+    "id" "799"
+    "classname" "waypoint"
+    "intensity" "1.0"
+    "position" "-507.90646 -572 904.99994"
+    "spawnflags" "0"
+    "origin" "-507.90646000 904.99994000 -572.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
 cameras
 {
     "activecamera" "0"
     camera
     {
-        "position" "[50.26169000 -540.38840000 230.11740000]"
-        "look" "[45.68552000 -487.71270000 149.99050000]"
+        "position" "[-919.81880000 111.95620000 -246.95740000]"
+        "look" "[-907.37930000 206.21520000 -260.24210000]"
     }
 }
 cordon
