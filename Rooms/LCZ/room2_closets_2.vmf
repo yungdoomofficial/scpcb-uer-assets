@@ -36395,7 +36395,7 @@ entity
     "position" "-6722 -3403 -7260"
     "file" "rock2"
     "angles" "381.36806 53.46969 198.353"
-    "scale" "150 150 150"
+    "scale" "15 15 15"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -36417,7 +36417,7 @@ entity
     "position" "2705 -1893.91962 -9674"
     "file" "rock2"
     "angles" "425.36172 109.20888 183.88613"
-    "scale" "150 150 150"
+    "scale" "15 15 15"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -36483,7 +36483,7 @@ entity
     "position" "-3673 -1520 3962"
     "file" "rock2"
     "angles" "345.05263 111.95164 339.88069"
-    "scale" "80 80 80"
+    "scale" "8 8 8"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -36593,7 +36593,7 @@ entity
     "position" "-1553 -574 1490"
     "file" "rock2"
     "angles" "345.05263 111.95164 339.88069"
-    "scale" "30 30 30"
+    "scale" "3 3 3"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -36825,8 +36825,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[1340.03800000 -1.32715600 692.55440000]"
-        "look" "[1249.70500000 -1.95844100 660.05680000]"
+        "position" "[-88.80159000 -220.20710000 142.11390000]"
+        "look" "[-154.17620000 -150.72200000 131.41590000]"
     }
 }
 cordon
