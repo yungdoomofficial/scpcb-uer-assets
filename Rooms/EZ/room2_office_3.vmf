@@ -36206,8 +36206,8 @@ world
             "id" "7094"
             "plane" "(224.00000000 390.00000000 228.10856000) (224.00000000 396.00000000 228.10856000) (224.00000000 396.00000000 222.10856000)"
             "material" "tooltextures/remove_face"
-            "uaxis" "[0.00000002 -1.00000000 0.00000000 995.9998750500720724657453198] 0.2"
-            "vaxis" "[0.00000000 0.00000000 -1.00000000 -326.4567000000000000000000000] 0.2"
+            "uaxis" "[0.00000002 -1.00000000 0.00000000 3.9998750500720724657453198] 0.2"
+            "vaxis" "[0.00000000 0.00000000 -1.00000000 -6.4567000000000000000000000] 0.2"
             "rotation" "0"
             vertex
             {
@@ -38111,7 +38111,7 @@ entity
     "position" "-540 0 795"
     "file" "096_tunnel_rocks"
     "angles" "360 0 360"
-    "scale" "10 10 10"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -38133,7 +38133,7 @@ entity
     "position" "-477.34555 0 -880.83623"
     "file" "096_tunnel_rocks"
     "angles" "360 -67.4183 360"
-    "scale" "10 10 10"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -38155,7 +38155,7 @@ entity
     "position" "-881 -8 -493"
     "file" "096_tunnel_rocks"
     "angles" "360 0 360"
-    "scale" "40 40 40"
+    "scale" "4 4 4"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -38199,7 +38199,7 @@ entity
     "position" "-658 0 -268"
     "file" "096_tunnel_rocks"
     "angles" "360 0 360"
-    "scale" "10 10 10"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -38221,7 +38221,7 @@ entity
     "position" "-777 0 -93"
     "file" "096_tunnel_rocks"
     "angles" "360 0 360"
-    "scale" "10 10 10"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -38315,8 +38315,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-103.60160000 302.03630000 294.68660000]"
-        "look" "[-39.31586000 233.79670000 274.00170000]"
+        "position" "[-1790.09400000 1230.74100000 472.34840000]"
+        "look" "[-1702.52300000 1193.68300000 485.57720000]"
     }
 }
 cordon

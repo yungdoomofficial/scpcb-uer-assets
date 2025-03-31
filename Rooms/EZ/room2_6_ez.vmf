@@ -31481,7 +31481,7 @@ entity
     "position" "-407.3345 399.6259 -99.6604"
     "file" "096_tunnel_rocks"
     "angles" "9.058537E-07 180 89.99998"
-    "scale" "60 60 60"
+    "scale" "6 6 6"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -32207,7 +32207,7 @@ entity
     "position" "-433.5104 281.1094 433.196"
     "file" "096_tunnel_rocks"
     "angles" "33.6441 -169.728 71.88676"
-    "scale" "60 60 60"
+    "scale" "6 6 6"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -32229,7 +32229,7 @@ entity
     "position" "-383.6382 15.04047 668.3395"
     "file" "096_tunnel_rocks"
     "angles" "2.21649E-06 180 54.99998"
-    "scale" "60 60 60"
+    "scale" "6 6 6"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -34035,8 +34035,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[679.98710000 1359.30000000 285.22640000]"
-        "look" "[591.60110000 1324.76400000 270.68590000]"
+        "position" "[718.95060000 -2849.14000000 190.15210000]"
+        "look" "[689.99110000 -2758.99200000 174.30840000]"
     }
 }
 cordon
