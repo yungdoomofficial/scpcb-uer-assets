@@ -21782,7 +21782,7 @@ entity
     "angles" "360 0 360"
     "file" "plant2.b3d"
     "position" "-113 144 -23"
-    "scale" "0.06 0.06 0.06"
+    "scale" "0.4 0.4 0.4"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -21846,8 +21846,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-261.46580000 427.43100000 274.80110000]"
-        "look" "[-117.65690000 338.73630000 183.60440000]"
+        "position" "[-368.19900000 229.74730000 282.04020000]"
+        "look" "[-185.65610000 174.69850000 259.40550000]"
     }
 }
 cordon
