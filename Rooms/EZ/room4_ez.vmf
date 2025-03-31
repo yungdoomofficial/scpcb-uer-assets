@@ -23517,7 +23517,7 @@ entity
     "position" "-150.3307 0 -128.4683"
     "file" "096_tunnel_rocks"
     "angles" "360 0 360"
-    "scale" "10 10 10"
+    "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -23691,8 +23691,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[12.97814000 -324.52340000 430.69740000]"
-        "look" "[-20.69490000 -236.50410000 412.39210000]"
+        "position" "[324.47010000 -1025.68200000 375.21590000]"
+        "look" "[261.33490000 -954.80640000 360.83390000]"
     }
 }
 cordon
