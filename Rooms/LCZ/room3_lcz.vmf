@@ -38834,28 +38834,6 @@ entity
 }
 entity
 {
-    "id" "775"
-    "classname" "mesh"
-    "angles" "360 -90 360"
-    "file" "door01.b3d"
-    "position" "-247 -4.0249 720"
-    "scale" "18 13.5 10"
-    "hasCollision" "No"
-    "meshFX" "0"
-    "textureOverwrite" ""
-    "spawnflags" "0"
-    "origin" "-247.00000000 720.00000000 -4.02490000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "2"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
     "id" "776"
     "classname" "mesh"
     "angles" "360 -90 360"
@@ -38947,13 +38925,35 @@ entity
         "parentid" "1"
     }
 }
+entity
+{
+    "id" "999"
+    "classname" "mesh"
+    "angles" "360 -90 360"
+    "file" "door02.b3d"
+    "position" "-246 2 720"
+    "scale" "15 12.8 10"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "-246.00000000 720.00000000 2.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
 cameras
 {
     "activecamera" "0"
     camera
     {
-        "position" "[-52.92816000 280.45820000 774.35440000]"
-        "look" "[-53.91059000 283.24830000 774.85240000]"
+        "position" "[98.15024000 416.81560000 317.88680000]"
+        "look" "[95.98197000 418.82680000 317.38520000]"
     }
 }
 cordon
