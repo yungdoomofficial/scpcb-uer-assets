@@ -51831,8 +51831,8 @@ world
             "id" "5864"
             "plane" "(1918.99999547 -483.00000470 -167.00003670) (1918.99999547 -477.00000470 -167.00003670) (1918.99999547 -477.00000470 -173.00003670)"
             "material" "tooltextures/remove_face"
-            "uaxis" "[0.00000002 -1.00000000 0.00000000 726.9996820501179679100949335] 0.2"
-            "vaxis" "[0.00000000 0.00000000 -1.00000000 -253.9996835000000000000000000] 0.2"
+            "uaxis" "[0.00000002 -1.00000000 0.00000000 22.9996820501179679100949335] 0.2"
+            "vaxis" "[0.00000000 0.00000000 -1.00000000 2.0003165000000000000000000] 0.2"
             "rotation" "0"
             vertex
             {
@@ -53373,13 +53373,79 @@ entity
         "parentid" "1"
     }
 }
+entity
+{
+    "id" "1205"
+    "classname" "mesh"
+    "angles" "360 -90 360"
+    "file" "plant2.b3d"
+    "position" "-4 -246 131"
+    "scale" "0.4 0.4 0.4"
+    "hasCollision" "Yes"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "-4.00000000 131.00000000 -246.00000000"
+    editor
+    {
+        "color" "0 209 151"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "1206"
+    "classname" "mesh"
+    "angles" "360 -69.22961 360"
+    "file" "plant2.b3d"
+    "position" "1608.00297 -246 158.00451"
+    "scale" "0.4 0.4 0.4"
+    "hasCollision" "Yes"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "1608.00297000 158.00451000 -246.00000000"
+    editor
+    {
+        "color" "0 209 151"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "1207"
+    "classname" "mesh"
+    "angles" "360 -69.22961 360"
+    "file" "plant2.b3d"
+    "position" "387.99997 -246 -764.99999"
+    "scale" "0.4 0.4 0.4"
+    "hasCollision" "Yes"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "387.99997000 -764.99999000 -246.00000000"
+    editor
+    {
+        "color" "0 209 151"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
 cameras
 {
     "activecamera" "0"
     camera
     {
-        "position" "[1384.40500000 -437.86760000 -58.77916000]"
-        "look" "[1477.96900000 -448.33860000 -77.54198000]"
+        "position" "[719.64970000 -648.01730000 -78.36539000]"
+        "look" "[625.44720000 -634.75730000 -91.24887000]"
     }
 }
 cordon
