@@ -12,7 +12,7 @@ Special red light: 255 50 50;
 Special blue light for monitors: 220 250 255.
 
 [AMBIENT COLORS]
-LCZ/Others: 30 30 30;
+LCZ/Others: 23 23 23;
 HCZ: 30 23 23;
 EZ: 23 23 30;
 
