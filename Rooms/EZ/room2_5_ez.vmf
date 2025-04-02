@@ -54,9 +54,9 @@ viewsettings
     "nGridSpacing" "1"
     "bIgnoreGrouping" "0"
     "bHideFaceMask" "0"
-    "bHideToolTextures" "1"
-    "bHideEntitySprites" "1"
-    "bHideMapOrigin" "1"
+    "bHideToolTextures" "0"
+    "bHideEntitySprites" "0"
+    "bHideMapOrigin" "0"
     "bTextureLock" "1"
     "bTextureScalingLock" "0"
 }
@@ -16165,8 +16165,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-905.15960000 394.63660000 333.39650000]"
-        "look" "[-890.18580000 381.80990000 330.04520000]"
+        "position" "[77.28642000 -269.14470000 267.20180000]"
+        "look" "[83.57960000 -250.20050000 265.98410000]"
     }
 }
 cordon

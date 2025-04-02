@@ -36414,7 +36414,7 @@ entity
 {
     "id" "802"
     "classname" "mesh"
-    "position" "2705 -1893.91962 -9674"
+    "position" "2705.7418 -1893.91962 -9674"
     "file" "rock2"
     "angles" "425.36172 109.20888 183.88613"
     "scale" "15 15 15"
@@ -36422,7 +36422,7 @@ entity
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "2705.00000000 -9674.00000000 -1893.91962000"
+    "origin" "2705.74180000 -9674.00000000 -1893.91962000"
     editor
     {
         "color" "255 0 255"
@@ -36436,15 +36436,15 @@ entity
 {
     "id" "803"
     "classname" "mesh"
-    "position" "-544 339 -103"
+    "position" "-530.96706 339 -112.53778"
     "file" "rock"
-    "angles" "379.71943 124.31554 110.1233"
+    "angles" "378.29785 123.52168 111.1571"
     "scale" "15 15 15"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-544.00000000 -103.00000000 339.00000000"
+    "origin" "-530.96706000 -112.53778000 339.00000000"
     editor
     {
         "color" "255 0 255"
@@ -36458,15 +36458,15 @@ entity
 {
     "id" "804"
     "classname" "mesh"
-    "position" "-533 132 104"
+    "position" "-522.26787 132 104"
     "file" "rock"
-    "angles" "379.71943 -150.37255 110.1233"
+    "angles" "379.38667 -148.58308 110.62179"
     "scale" "15 15 15"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-533.00000000 104.00000000 132.00000000"
+    "origin" "-522.26787000 104.00000000 132.00000000"
     editor
     {
         "color" "255 0 255"
@@ -36502,15 +36502,15 @@ entity
 {
     "id" "809"
     "classname" "mesh"
-    "position" "-362 243 235"
+    "position" "-354.59185 255.72274 235"
     "file" "rock"
-    "angles" "379.71943 56.3037 110.1233"
+    "angles" "378.68206 61.34724 108.90018"
     "scale" "8 8 8"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-362.00000000 235.00000000 243.00000000"
+    "origin" "-354.59185000 235.00000000 255.72274000"
     editor
     {
         "color" "255 0 255"
@@ -36825,8 +36825,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-308.83130000 1352.03500000 106.69390000]"
-        "look" "[-286.49080000 1260.72800000 87.19246000]"
+        "position" "[-221.65750000 72.11672000 295.19090000]"
+        "look" "[-297.58190000 19.06481000 269.94520000]"
     }
 }
 cordon
