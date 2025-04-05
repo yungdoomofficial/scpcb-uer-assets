@@ -43193,50 +43193,6 @@ entity
 }
 entity
 {
-    "id" "775"
-    "classname" "mesh"
-    "angles" "360 -90 360"
-    "file" "door01.b3d"
-    "position" "-247 -4.0249 720"
-    "scale" "18 13.5 10"
-    "hasCollision" "No"
-    "meshFX" "0"
-    "textureOverwrite" ""
-    "spawnflags" "0"
-    "origin" "-247.00000000 720.00000000 -4.02490000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "2"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
-    "id" "776"
-    "classname" "mesh"
-    "angles" "360 -90 360"
-    "file" "doorframe.b3d"
-    "position" "-256 0 720"
-    "scale" "1 1 1"
-    "hasCollision" "No"
-    "meshFX" "0"
-    "textureOverwrite" ""
-    "spawnflags" "0"
-    "origin" "-256.00000000 720.00000000 0.00000000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "2"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
-entity
-{
     "id" "1107"
     "classname" "waypoint"
     "position" "0 31.99984 -640"
@@ -43267,36 +43223,13 @@ entity
         "parentid" "1"
     }
 }
-entity
-{
-    "id" "1109"
-    "classname" "mesh"
-    "angles" "360 90 360"
-    "file" "buttonkeycard.b3d"
-    "position" "-228 176 834"
-    "scale" "8 8 5"
-    "hasCollision" "No"
-    "meshFX" "0"
-    "textureOverwrite" ""
-    "spawnflags" "0"
-    "origin" "-228.00000000 834.00000000 176.00000000"
-    editor
-    {
-        "color" "255 0 255"
-        "visgroupid" "3"
-        "visgroupid" "8"
-        "visgroupshown" "1"
-        "visgroupautoshown" "1"
-        "parentid" "1"
-    }
-}
 cameras
 {
     "activecamera" "0"
     camera
     {
-        "position" "[-24.61628000 386.93730000 299.99340000]"
-        "look" "[-24.66953000 388.71550000 297.57840000]"
+        "position" "[-36.79171000 788.46100000 267.11000000]"
+        "look" "[-39.55873000 787.93590000 266.07810000]"
     }
 }
 cordon
