@@ -46550,7 +46550,7 @@ entity
     "file" "save_screen.b3d"
     "angles" "360 179.96581 360"
     "scale" "0.58 0.65 1.0"
-    "imgpath" "Nordy.png"
+    "imgpath" "chatscreen_Nordy.png"
     "spawnflags" "0"
     "origin" "483.41268000 937.96360000 159.00002000"
     editor
@@ -46566,8 +46566,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[556.38200000 637.70700000 317.64760000]"
-        "look" "[544.24140000 726.61670000 283.53450000]"
+        "position" "[497.51920000 625.28050000 297.88270000]"
+        "look" "[443.90090000 699.40630000 268.78850000]"
     }
 }
 cordon

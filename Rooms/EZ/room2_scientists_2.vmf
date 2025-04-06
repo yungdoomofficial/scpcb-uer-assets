@@ -24032,7 +24032,7 @@ entity
     "file" "save_screen.b3d"
     "angles" "360 90 360"
     "scale" "1.472 1.4 1.0"
-    "imgpath" "conf.png"
+    "imgpath" "chatscreen_conf.png"
     "spawnflags" "0"
     "origin" "1315.00000000 232.00000000 252.00000000"
     editor
@@ -24051,7 +24051,7 @@ entity
     "file" "save_screen.b3d"
     "angles" "369.98412 0 360"
     "scale" "0.706 0.74 1.0"
-    "imgpath" "DrL.png"
+    "imgpath" "chatscreen_DrL.png"
     "spawnflags" "0"
     "origin" "-718.00000000 -307.29437000 232.14895000"
     editor
@@ -24067,8 +24067,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-560.17270000 40.52274000 344.72730000]"
-        "look" "[-551.77610000 -49.96209000 313.77170000]"
+        "position" "[1144.97700000 331.87270000 243.28790000]"
+        "look" "[1237.89800000 312.21090000 257.26160000]"
     }
 }
 cordon

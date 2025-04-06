@@ -58038,7 +58038,7 @@ entity
     "file" "save_screen.b3d"
     "angles" "360 90 360"
     "scale" "0.706 0.74 1.0"
-    "imgpath" "hooper.png"
+    "imgpath" "chatscreen_hooper.png"
     "spawnflags" "0"
     "origin" "-233.00000000 271.99996000 1102.00000000"
     editor
@@ -58054,8 +58054,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-450.34430000 212.74530000 1228.85200000]"
-        "look" "[-363.33790000 227.27660000 1190.96500000]"
+        "position" "[-342.87100000 335.89250000 1155.26900000]"
+        "look" "[-252.77520000 319.00770000 1126.73200000]"
     }
 }
 cordon

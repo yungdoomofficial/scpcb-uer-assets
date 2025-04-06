@@ -26,7 +26,7 @@
 		"Name": "imgpath",
 		"SmartEditName": "Image Path",
 		"Type": "String",
-		"DefaultValue": ""
+		"HelpText": "Overwrite the screen texture and image"
     }
   ]
 }

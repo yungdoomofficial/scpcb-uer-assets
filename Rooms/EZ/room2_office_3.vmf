@@ -38187,7 +38187,7 @@ entity
     "file" "save_screen.b3d"
     "angles" "360 -180 360"
     "scale" "0.58 0.65 1.0"
-    "imgpath" "rosewood.png"
+    "imgpath" "chatscreen_Rosewood.png"
     "spawnflags" "0"
     "origin" "1559.53699000 441.97097000 383.28638000"
     editor
@@ -38203,8 +38203,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[1712.09700000 328.58970000 466.18220000]"
-        "look" "[1634.86300000 370.18640000 427.17550000]"
+        "position" "[1579.22900000 258.45900000 533.97020000]"
+        "look" "[1532.52700000 300.90090000 461.62020000]"
     }
 }
 cordon

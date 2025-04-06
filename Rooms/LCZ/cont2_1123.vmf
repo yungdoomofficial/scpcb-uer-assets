@@ -18120,7 +18120,7 @@ entity
     "file" "save_screen.b3d"
     "angles" "360 -4.19861 360"
     "scale" "0.58 0.65 1.0"
-    "imgpath" "Office.png"
+    "imgpath" "chatscreen_office.png"
     "spawnflags" "0"
     "origin" "819.03661000 -955.39019000 160.00002000"
     editor
@@ -18139,7 +18139,7 @@ entity
     "file" "save_screen.b3d"
     "angles" "360 -4.19861 360"
     "scale" "0.58 0.65 1.0"
-    "imgpath" "Office.png"
+    "imgpath" "chatscreen_office.png"
     "spawnflags" "0"
     "origin" "819.03661000 -955.39019000 5023.97246000"
     editor
@@ -18155,8 +18155,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[634.56180000 -625.27570000 236.13640000]"
-        "look" "[669.70000000 -709.40330000 206.08120000]"
+        "position" "[564.01280000 -730.38180000 5112.93800000]"
+        "look" "[654.70290000 -743.33670000 5084.25000000]"
     }
 }
 cordon

@@ -49809,7 +49809,7 @@ entity
     "file" "save_screen.b3d"
     "angles" "360 -90 360"
     "scale" "0.706 0.74 1.0"
-    "imgpath" "372.png"
+    "imgpath" "chatscreen_372.png"
     "spawnflags" "0"
     "origin" "144.00000000 -132.00000000 208.00000000"
     editor
@@ -49825,8 +49825,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[206.61350000 -110.74450000 234.76220000]"
-        "look" "[114.30470000 -101.74300000 209.97990000]"
+        "position" "[231.81720000 -76.08957000 253.43530000]"
+        "look" "[141.30000000 -94.29688000 227.14430000]"
     }
 }
 cordon
