@@ -1,0 +1,32 @@
+{
+  "Name": "save_screen",
+  "Description": "Save Screen",
+  "Sprite": "sprites/templatesprite",
+  "UseModelRendering": true,
+  "Properties": [
+    {
+		"Name": "file",
+		"SmartEditName": "File",
+		"Type": "String",
+		"DefaultValue": "save_screen.b3d"
+    },
+    {
+		"Name": "angles",
+		"SmartEditName": "Rotation",
+		"Type": "Vector",
+		"DefaultValue": "0.0 0.0 0.0"
+    },
+	{
+		"Name": "scale",
+		"SmartEditName": "Scale",
+		"Type": "Vector",
+		"DefaultValue": "1.0 1.0 1.0"
+    },
+	{
+		"Name": "imgpath",
+		"SmartEditName": "Image Path",
+		"Type": "String",
+		"DefaultValue": ""
+    }
+  ]
+}
