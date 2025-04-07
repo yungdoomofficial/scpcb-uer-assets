@@ -63622,7 +63622,7 @@ entity
     "file" "sofa"
     "angles" "360 180 360"
     "scale" "1.8 2 1.5"
-    "hasCollision" "No"
+    "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
@@ -64350,7 +64350,7 @@ entity
     "file" "sofa"
     "angles" "360 0 360"
     "scale" "1.8 2 1.5"
-    "hasCollision" "No"
+    "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
@@ -65549,8 +65549,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[36.04485000 1359.99300000 607.08690000]"
-        "look" "[33.36039000 1264.03600000 605.60440000]"
+        "position" "[815.56230000 -11.18114000 312.04360000]"
+        "look" "[892.20270000 41.00010000 287.13350000]"
     }
 }
 cordon
