@@ -16897,13 +16897,13 @@ entity
     "classname" "mesh"
     "angles" "360 180 360"
     "file" "lamp_c.b3d"
-    "position" "-113.00006 346 511.9999"
+    "position" "-113 332 512"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-113.00006000 511.99990000 346.00000000"
+    "origin" "-113.00000000 512.00000000 332.00000000"
     editor
     {
         "color" "255 0 255"
@@ -16938,13 +16938,13 @@ entity
     "classname" "mesh"
     "angles" "360 -180 360"
     "file" "lamp_c.b3d"
-    "position" "-113.0001 346 -0.00006"
+    "position" "-113 332 0"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-113.00010000 -0.00006000 346.00000000"
+    "origin" "-113.00000000 0.00000000 332.00000000"
     editor
     {
         "color" "255 0 255"
@@ -16979,13 +16979,13 @@ entity
     "classname" "mesh"
     "angles" "360 180 360"
     "file" "lamp_c.b3d"
-    "position" "-113 346 -511.99989"
+    "position" "-113 332 -511.99989"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-113.00000000 -511.99989000 346.00000000"
+    "origin" "-113.00000000 -511.99989000 332.00000000"
     editor
     {
         "color" "255 0 255"
@@ -17039,13 +17039,13 @@ entity
     "classname" "mesh"
     "angles" "360 -180 360"
     "file" "lamp_c.b3d"
-    "position" "-625 346 -511.99989"
+    "position" "-625 332 -511.99989"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-625.00000000 -511.99989000 346.00000000"
+    "origin" "-625.00000000 -511.99989000 332.00000000"
     editor
     {
         "color" "255 0 255"
@@ -17080,13 +17080,13 @@ entity
     "classname" "mesh"
     "angles" "360 180 360"
     "file" "lamp_c.b3d"
-    "position" "-625.0001 346 -0.00006"
+    "position" "-625.0001 332 0"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-625.00010000 -0.00006000 346.00000000"
+    "origin" "-625.00010000 0.00000000 332.00000000"
     editor
     {
         "color" "255 0 255"
@@ -17140,13 +17140,13 @@ entity
     "classname" "mesh"
     "angles" "360 -180 360"
     "file" "lamp_c.b3d"
-    "position" "-625.00006 346 511.9999"
+    "position" "-625 332 512"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-625.00006000 511.99990000 346.00000000"
+    "origin" "-625.00000000 512.00000000 332.00000000"
     editor
     {
         "color" "255 0 255"
@@ -17493,8 +17493,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-33.21556000 164.22110000 331.96630000]"
-        "look" "[-26.58981000 69.68742000 316.62380000]"
+        "position" "[-1090.18100000 502.34910000 228.76420000]"
+        "look" "[-1087.42700000 406.39520000 227.68170000]"
     }
 }
 cordon
