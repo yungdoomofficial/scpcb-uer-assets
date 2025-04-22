@@ -96633,7 +96633,7 @@ entity
     "angles" "360 86.23541 360"
     "file" "system_unit.b3d"
     "position" "-703 -5104 472"
-    "scale" "6 6 4.5"
+    "scale" "5.5 5.5 4.5"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -98162,8 +98162,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-810.29600000 -103.27390000 -4822.06600000]"
-        "look" "[-797.82200000 -8.13388800 -4819.25400000]"
+        "position" "[-732.44790000 566.83330000 -5012.33800000]"
+        "look" "[-730.56730000 474.70410000 -5039.24200000]"
     }
 }
 cordon

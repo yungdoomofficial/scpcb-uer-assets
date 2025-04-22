@@ -24737,7 +24737,7 @@ entity
     "angles" "360 -88.60405 360"
     "file" "system_unit.b3d"
     "position" "717 0 -593"
-    "scale" "6 6 4.5"
+    "scale" "5.5 5.5 4.5"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -24759,7 +24759,7 @@ entity
     "angles" "360 -88.60405 360"
     "file" "system_unit.b3d"
     "position" "704 0 788"
-    "scale" "6 6 4.5"
+    "scale" "5.5 5.5 4.5"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -24781,7 +24781,7 @@ entity
     "angles" "360 -178.60405 360"
     "file" "system_unit.b3d"
     "position" "561 0 -75.99998"
-    "scale" "6 6 4.5"
+    "scale" "5.5 5.5 4.5"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -24803,7 +24803,7 @@ entity
     "angles" "360 -88.60405 360"
     "file" "system_unit.b3d"
     "position" "335 0 855"
-    "scale" "6 6 4.5"
+    "scale" "5.5 5.5 4.5"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -26474,13 +26474,13 @@ entity
     "classname" "mesh"
     "angles" "360 1.39595 360"
     "file" "system_unit.b3d"
-    "position" "-587 0 300"
-    "scale" "6 6 4.5"
+    "position" "-587 0 292"
+    "scale" "5.5 5.5 4.5"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-587.00000000 300.00000000 0.00000000"
+    "origin" "-587.00000000 292.00000000 0.00000000"
     editor
     {
         "color" "255 0 255"
@@ -27366,8 +27366,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[623.15590000 773.13890000 151.09620000]"
-        "look" "[528.54020000 761.62540000 162.55550000]"
+        "position" "[-682.22390000 629.48420000 162.85480000]"
+        "look" "[-675.76100000 535.23070000 145.80990000]"
     }
 }
 cordon
