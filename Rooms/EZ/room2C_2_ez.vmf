@@ -17940,7 +17940,7 @@ entity
     "angles" "360 0.96672 360"
     "file" "system_unit.b3d"
     "position" "726.1226 0 -800.6295"
-    "scale" "6 6 4.5"
+    "scale" "5.5 5.5 4.5"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -18072,7 +18072,7 @@ entity
     "angles" "360 0.96672 360"
     "file" "system_unit.b3d"
     "position" "390.1226 0 -800.6295"
-    "scale" "6 6 4.5"
+    "scale" "5.5 5.5 4.5"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -18204,7 +18204,7 @@ entity
     "angles" "360 0.96672 360"
     "file" "system_unit.b3d"
     "position" "380.1226 0 -573.6295"
-    "scale" "6 6 4.5"
+    "scale" "5.5 5.5 4.5"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -18336,7 +18336,7 @@ entity
     "angles" "360 0.96672 360"
     "file" "system_unit.b3d"
     "position" "716.1226 0 -566.6295"
-    "scale" "6 6 4.5"
+    "scale" "5.5 5.5 4.5"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -18883,7 +18883,7 @@ entity
     "file" "speaker.b3d"
     "position" "971 332 -935"
     "scale" ".3 .3 .3"
-    "hasCollision" "Yes"
+    "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
@@ -18918,8 +18918,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[299.50850000 200.48210000 309.41220000]"
-        "look" "[335.98600000 111.70550000 311.46300000]"
+        "position" "[694.32280000 -325.37840000 96.10433000]"
+        "look" "[687.30330000 -421.10010000 94.05868000]"
     }
 }
 cordon

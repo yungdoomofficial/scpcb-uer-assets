@@ -24732,7 +24732,7 @@ entity
     "file" "speaker.b3d"
     "position" "203 332 -202"
     "scale" ".3 .3 .3"
-    "hasCollision" "Yes"
+    "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
@@ -25063,7 +25063,7 @@ entity
     "angles" "360 -92.9444 360"
     "file" "system_unit.b3d"
     "position" "-86.00001 0 202.5"
-    "scale" "6 6.5 6"
+    "scale" "5.5 5.5 4.5"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -25259,8 +25259,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-256.14800000 -125.07510000 311.60290000]"
-        "look" "[-76.45586000 -86.00864000 256.38330000]"
+        "position" "[76.24754000 80.88971000 113.02970000]"
+        "look" "[-83.74123000 186.81790000 106.14040000]"
     }
 }
 cordon

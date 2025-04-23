@@ -22348,13 +22348,13 @@ entity
     "classname" "mesh"
     "angles" "355.46951 -115.0838 447.88252"
     "file" "system_unit.b3d"
-    "position" "-925 26 138"
-    "scale" "6 6 4.5"
+    "position" "-925 24 138"
+    "scale" "5.5 5.5 4.5"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" "GFX\map\textures\rockmoss.jpg"
     "spawnflags" "0"
-    "origin" "-925.00000000 138.00000000 26.00000000"
+    "origin" "-925.00000000 138.00000000 24.00000000"
     editor
     {
         "color" "255 0 255"
@@ -22370,13 +22370,13 @@ entity
     "classname" "mesh"
     "angles" "355.46951 -29.32504 447.88252"
     "file" "system_unit.b3d"
-    "position" "-456 26 511"
-    "scale" "6 6 4.5"
+    "position" "-456 24 511"
+    "scale" "5.5 5.5 4.5"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" "GFX\map\textures\rockmoss.jpg"
     "spawnflags" "0"
-    "origin" "-456.00000000 511.00000000 26.00000000"
+    "origin" "-456.00000000 511.00000000 24.00000000"
     editor
     {
         "color" "255 0 255"
@@ -22633,7 +22633,7 @@ entity
     "angles" "360 90 360"
     "file" "system_unit.b3d"
     "position" "640 0 107"
-    "scale" "6 6 4.5"
+    "scale" "5.5 5.5 4.5"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -22655,7 +22655,7 @@ entity
     "angles" "360 90 360"
     "file" "system_unit.b3d"
     "position" "624 0 -438"
-    "scale" "6 6 4.5"
+    "scale" "5.5 5.5 4.5"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -23841,7 +23841,7 @@ entity
     "angles" "360 -90 360"
     "file" "system_unit.b3d"
     "position" "1006 0 103"
-    "scale" "6 6 4.5"
+    "scale" "5.5 5.5 4.5"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -24067,8 +24067,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[1144.97700000 331.87270000 243.28790000]"
-        "look" "[1237.89800000 312.21090000 257.26160000]"
+        "position" "[-611.14220000 164.01320000 114.44560000]"
+        "look" "[-653.32370000 244.96600000 84.72110000]"
     }
 }
 cordon

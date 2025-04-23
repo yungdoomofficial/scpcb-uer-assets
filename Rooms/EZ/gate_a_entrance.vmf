@@ -63618,15 +63618,15 @@ entity
 {
     "id" "152"
     "classname" "mesh"
-    "position" "1205.45 0 646.03565"
-    "file" "sofa"
+    "position" "1205.45 0 691.03565"
+    "file" "bench2"
     "angles" "360 180 360"
-    "scale" "1.8 2 1.5"
+    "scale" "1 1 1"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "1205.45000000 646.03565000 0.00000000"
+    "origin" "1205.45000000 691.03565000 0.00000000"
     editor
     {
         "color" "255 0 255"
@@ -64306,7 +64306,7 @@ entity
     "file" "speaker.b3d"
     "position" "533.99997 458.37485 -844"
     "scale" ".3 .3 .3"
-    "hasCollision" "Yes"
+    "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
@@ -64346,15 +64346,15 @@ entity
 {
     "id" "2060"
     "classname" "mesh"
-    "position" "1193.91467 0 -645.6127"
-    "file" "sofa"
+    "position" "1193.91467 0 -691.6127"
+    "file" "bench2"
     "angles" "360 0 360"
-    "scale" "1.8 2 1.5"
+    "scale" "1 1 1"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "1193.91467000 -645.61270000 0.00000000"
+    "origin" "1193.91467000 -691.61270000 0.00000000"
     editor
     {
         "color" "255 0 255"
@@ -64891,7 +64891,7 @@ entity
     "angles" "360 -2.9444 360"
     "file" "system_unit.b3d"
     "position" "-194.60914 0 -89.22187"
-    "scale" "6 6.5 6"
+    "scale" "5.5 5.5 4.5"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -65507,7 +65507,7 @@ entity
     "angles" "360 -2.9444 360"
     "file" "system_unit.b3d"
     "position" "-251.60864 0 -89.22187"
-    "scale" "6 6.5 6"
+    "scale" "5.5 5.5 4.5"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -65549,8 +65549,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[815.56230000 -11.18114000 312.04360000]"
-        "look" "[892.20270000 41.00010000 287.13350000]"
+        "position" "[-228.15260000 115.84320000 128.92470000]"
+        "look" "[-228.64330000 24.94316000 98.03330000]"
     }
 }
 cordon

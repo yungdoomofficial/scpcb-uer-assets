@@ -22736,7 +22736,7 @@ world
         {
             "id" "3125"
             "plane" "(672.00020894 -511.99997300 383.99996724) (768.00020894 -415.99997300 383.99996724) (768.00019142 -415.99997300 -0.00000721)"
-            "material" "officewall"
+            "material" "tooltextures/remove_face"
             "uaxis" "[0.00000000 1.00000000 0.00000000 0] 0.375"
             "vaxis" "[0.00000000 0.00000000 -1.00000000 0] 0.37500"
             "rotation" "0"
@@ -57667,7 +57667,7 @@ entity
     "file" "speaker.b3d"
     "position" "-703 642.47747 -453"
     "scale" ".3 .3 .3"
-    "hasCollision" "Yes"
+    "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
@@ -58114,7 +58114,7 @@ entity
     "angles" "360 -2.9444 360"
     "file" "system_unit.b3d"
     "position" "-194.60914 0 -89.22187"
-    "scale" "6 6.5 6"
+    "scale" "5.5 5.5 4.5"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -58686,7 +58686,7 @@ entity
     "angles" "360 -2.9444 360"
     "file" "system_unit.b3d"
     "position" "-251.60864 0 -89.22187"
-    "scale" "6 6.5 6"
+    "scale" "5.5 5.5 4.5"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -58728,8 +58728,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[22.32765000 1401.06700000 604.50850000]"
-        "look" "[22.92257000 1381.07600000 604.26310000]"
+        "position" "[-249.03360000 137.10850000 113.81070000]"
+        "look" "[-251.90820000 117.75040000 109.68270000]"
     }
 }
 cordon
