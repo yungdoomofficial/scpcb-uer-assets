@@ -8589,13 +8589,30 @@ entity
         "parentid" "1"
     }
 }
+entity
+{
+    "id" "262"
+    "classname" "waypoint"
+    "intensity" "1.0"
+    "position" "-480 32 -768"
+    "spawnflags" "0"
+    "origin" "-480.00000000 -768.00000000 32.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
 cameras
 {
     "activecamera" "0"
     camera
     {
-        "position" "[365.31700000 -1066.58900000 289.20730000]"
-        "look" "[333.40690000 -977.49210000 273.10280000]"
+        "position" "[-326.58960000 -927.75820000 206.12630000]"
+        "look" "[-377.54320000 -855.93930000 244.35760000]"
     }
 }
 cordon
