@@ -58423,13 +58423,55 @@ entity
         "parentid" "1"
     }
 }
+entity
+{
+    "id" "1279"
+    "classname" "mesh"
+    "position" "-353 279 991"
+    "file" "watches"
+    "angles" "450 -90 270"
+    "scale" "40.0 40.0 40.0"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "-353.00000000 991.00000000 279.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "1280"
+    "classname" "mesh"
+    "position" "352 279 -990"
+    "file" "watches"
+    "angles" "450 90 270"
+    "scale" "40.0 40.0 40.0"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "352.00000000 -990.00000000 279.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
 cameras
 {
     "activecamera" "0"
     camera
     {
-        "position" "[1272.20200000 -1528.20300000 404.63600000]"
-        "look" "[1270.75200000 -1508.62700000 400.79990000]"
+        "position" "[430.72120000 6.60943000 287.65560000]"
+        "look" "[438.60180000 -11.75811000 288.40880000]"
     }
 }
 cordon

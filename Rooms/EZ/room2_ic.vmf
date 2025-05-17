@@ -24276,15 +24276,15 @@ entity
 {
     "id" "302"
     "classname" "mesh"
-    "angles" "0 270 0"
+    "angles" "360 -90 360"
     "file" "monitor2.b3d"
-    "position" "187 283 0"
+    "position" "187 298 638"
     "scale" "2.2 2.2 2.2"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "187.00000000 0.00000000 283.00000000"
+    "origin" "187.00000000 638.00000000 298.00000000"
     editor
     {
         "color" "255 0 255"
@@ -24728,15 +24728,15 @@ entity
 {
     "id" "567"
     "classname" "mesh"
-    "angles" "360.00001 0 360"
+    "angles" "359.99997 0 360"
     "file" "speaker.b3d"
-    "position" "203 332 -202"
+    "position" "202.99999 286.12654 -202"
     "scale" ".3 .3 .3"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "203.00000000 -202.00000000 332.00000000"
+    "origin" "202.99999000 -202.00000000 286.12654000"
     editor
     {
         "color" "255 0 255"
@@ -25254,13 +25254,34 @@ entity
         "parentid" "1"
     }
 }
+entity
+{
+    "id" "692"
+    "classname" "mesh"
+    "position" "223 288 0"
+    "file" "watches"
+    "angles" "450 180 270"
+    "scale" "40.0 40.0 40.0"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "223.00000000 0.00000000 288.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
 cameras
 {
     "activecamera" "0"
     camera
     {
-        "position" "[76.24754000 80.88971000 113.02970000]"
-        "look" "[-83.74123000 186.81790000 106.14040000]"
+        "position" "[-666.79470000 -57.95133000 258.61210000]"
+        "look" "[-477.59390000 -26.00670000 251.73860000]"
     }
 }
 cordon

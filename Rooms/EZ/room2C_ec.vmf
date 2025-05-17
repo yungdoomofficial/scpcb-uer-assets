@@ -58049,13 +58049,34 @@ entity
         "parentid" "1"
     }
 }
+entity
+{
+    "id" "1015"
+    "classname" "mesh"
+    "position" "-448 1174 65"
+    "file" "watches"
+    "angles" "450 90 270"
+    "scale" "40.0 40.0 40.0"
+    "hasCollision" "No"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "-448.00000000 65.00000000 1174.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
 cameras
 {
     "activecamera" "0"
     camera
     {
-        "position" "[-342.87100000 335.89250000 1155.26900000]"
-        "look" "[-252.77520000 319.00770000 1126.73200000]"
+        "position" "[-472.19280000 626.14400000 1174.33700000]"
+        "look" "[-484.15250000 530.90040000 1172.81400000]"
     }
 }
 cordon
