@@ -32470,13 +32470,77 @@ entity
         "parentid" "1"
     }
 }
+entity
+{
+    "id" "1245"
+    "classname" "mesh"
+    "angles" "360 -90 360"
+    "file" "fizzmachine"
+    "position" "-491.79256 0 -382.79105"
+    "scale" "1 1 1"
+    "hasCollision" "Yes"
+    "meshFX" "0"
+    "textureOverwrite" ""
+    "spawnflags" "0"
+    "origin" "-491.79256000 -382.79105000 0.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "3"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "1246"
+    "classname" "light"
+    "color" "255 200 100"
+    "intensity" "0.3"
+    "linearfalloff" "1"
+    "position" "-407.79256 280 -382.79105"
+    "range" "300"
+    "hassprite" "No"
+    "spawnflags" "0"
+    "origin" "-407.79256000 -382.79105000 280.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "1247"
+    "classname" "light"
+    "color" "255 200 100"
+    "intensity" "0.3"
+    "linearfalloff" "1"
+    "position" "-407.79256 136 -382.79105"
+    "range" "300"
+    "hassprite" "No"
+    "spawnflags" "0"
+    "origin" "-407.79256000 -382.79105000 136.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
 cameras
 {
     "activecamera" "0"
     camera
     {
-        "position" "[371.00920000 22.93415000 279.83760000]"
-        "look" "[466.02440000 9.50485200 276.95480000]"
+        "position" "[402.15930000 -526.81670000 482.91190000]"
+        "look" "[311.50590000 -498.52670000 468.83430000]"
     }
 }
 cordon

@@ -8190,7 +8190,7 @@ world
             "id" "1528"
             "plane" "(3.00000000 544.00000000 299.10855000) (-3.00000000 544.00000000 299.10855000) (-3.00000000 544.00000000 293.10855000)"
             "material" "tooltextures/remove_face"
-            "uaxis" "[1.00000000 0.00000002 0.00000000 54.999843050024622299266111693] 0.2"
+            "uaxis" "[1.00000000 0.00000002 0.00000000 22.999843050024622299266111693] 0.2"
             "vaxis" "[0.00000000 0.00000000 -1.00000000 28.5432500000000000000000000] 0.2"
             "rotation" "0"
             vertex
@@ -8303,15 +8303,15 @@ entity
 {
     "id" "178"
     "classname" "mesh"
-    "angles" "360 180 360"
-    "file" "bench"
-    "position" "-209 0 504"
+    "angles" "360 -180 360"
+    "file" "fizzmachine"
+    "position" "-233 0 461"
     "scale" "1 1 1"
     "hasCollision" "Yes"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
-    "origin" "-209.00000000 504.00000000 0.00000000"
+    "origin" "-233.00000000 461.00000000 0.00000000"
     editor
     {
         "color" "255 0 255"
@@ -8641,13 +8641,55 @@ entity
         "parentid" "1"
     }
 }
+entity
+{
+    "id" "316"
+    "classname" "light"
+    "color" "255 200 100"
+    "intensity" "0.3"
+    "linearfalloff" "1"
+    "position" "-233 136 377"
+    "range" "300"
+    "hassprite" "No"
+    "spawnflags" "0"
+    "origin" "-233.00000000 377.00000000 136.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
+entity
+{
+    "id" "318"
+    "classname" "light"
+    "color" "255 200 100"
+    "intensity" "0.3"
+    "linearfalloff" "1"
+    "position" "-233 280 377"
+    "range" "300"
+    "hassprite" "No"
+    "spawnflags" "0"
+    "origin" "-233.00000000 377.00000000 280.00000000"
+    editor
+    {
+        "color" "255 0 255"
+        "visgroupid" "2"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "parentid" "1"
+    }
+}
 cameras
 {
     "activecamera" "0"
     camera
     {
-        "position" "[49.18276000 251.94090000 311.46440000]"
-        "look" "[69.72055000 160.59050000 290.26820000]"
+        "position" "[151.81210000 3.58347300 230.85770000]"
+        "look" "[73.65812000 59.07372000 236.22050000]"
     }
 }
 cordon
