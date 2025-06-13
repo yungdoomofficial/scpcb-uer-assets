@@ -30304,7 +30304,7 @@ entity
     "file" "yucca"
     "position" "-360 122 809"
     "scale" "1 1 1"
-    "hasCollision" "Yes"
+    "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
     "spawnflags" "0"
@@ -31222,8 +31222,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-469.76250000 -231.77220000 262.84510000]"
-        "look" "[-543.22570000 -293.54330000 261.01110000]"
+        "position" "[-543.93510000 682.99440000 224.42490000]"
+        "look" "[-478.58050000 752.04050000 211.10960000]"
     }
 }
 cordon
