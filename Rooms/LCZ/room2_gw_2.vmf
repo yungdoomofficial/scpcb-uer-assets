@@ -60472,13 +60472,13 @@ entity
     "classname" "mesh"
     "angles" "360 -179.37854 360"
     "file" "book.b3d"
-    "position" "-401.01523 201 338.72656"
+    "position" "-401.01523 200 338.72656"
     "scale" "1 1 1"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" "GFX\Map\Textures\Book10.png"
     "spawnflags" "0"
-    "origin" "-401.01523000 338.72656000 201.00000000"
+    "origin" "-401.01523000 338.72656000 200.00000000"
     editor
     {
         "color" "255 0 255"
@@ -60858,8 +60858,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-96.91516000 -706.16250000 253.72270000]"
-        "look" "[-95.58855000 -686.25630000 252.31280000]"
+        "position" "[803.75920000 707.48860000 774.14220000]"
+        "look" "[795.31570000 696.97960000 759.36810000]"
     }
 }
 cordon
