@@ -57530,9 +57530,9 @@ entity
     "id" "768"
     "classname" "mesh"
     "angles" "360 90 360"
-    "file" "door01.b3d"
+    "file" "door02.b3d"
     "position" "1047 383.95437 -580"
-    "scale" "18 13.5 10"
+    "scale" "15 13 10"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -57597,9 +57597,9 @@ entity
     "id" "801"
     "classname" "mesh"
     "angles" "360 -90 360"
-    "file" "door01.b3d"
+    "file" "door02.b3d"
     "position" "-1046.99999 383.95437 580"
-    "scale" "18 13.5 10"
+    "scale" "15 13 10"
     "hasCollision" "No"
     "meshFX" "0"
     "textureOverwrite" ""
@@ -58727,8 +58727,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-114.43480000 142.22510000 147.29820000]"
-        "look" "[-132.31230000 141.10530000 138.39970000]"
+        "position" "[69.57475000 -205.59280000 391.20310000]"
+        "look" "[88.80784000 -200.10450000 391.28920000]"
     }
 }
 cordon
